@@ -1,0 +1,509 @@
+# <!=Copyright (C) 2020 Sublime Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Sublime Blog 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/sublime-blog\n"
+"POT-Creation-Date: 2020-12-02 08:43:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"The page you were looking for could not be found. You may have typed the "
+"address incorrectly or you may have used an outdated link. Try search our "
+"site."
+msgstr ""
+
+#: 404.php:20
+msgid "Back to Homepage"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:42
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:45
+#. translators: %s: CMS name, i.e. WordPress.
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:56
+msgid "Top"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:137 functions.php:147 functions.php:157 functions.php:167
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:145
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:155
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer Three"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:62
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: header.php:97
+msgid "Search Result"
+msgstr ""
+
+#: header.php:98
+msgid "Search results for the keyword:"
+msgstr ""
+
+#: header.php:103
+msgid "Oop! This page can not be found"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Enable Header Search"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Enable Banner Slider"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Choose Slider Transition"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Slider Autoplay Speed"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Slider Autoplay Timeout"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Slider Type"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Choose the number of slides you want to display"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer.php:328
+#. translators: 1: Theme name, 2: Theme author.
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/getting-started.php:9 inc/getting-started.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: inc/getting-started.php:37
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: inc/getting-started.php:38
+msgid "Get to know more about %1$s below."
+msgstr ""
+
+#: inc/getting-started.php:45
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/getting-started.php:48
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr ""
+
+#: inc/getting-started.php:49
+msgid "Knowledge Base »"
+msgstr ""
+
+#: inc/getting-started.php:55
+msgid "View Demo"
+msgstr ""
+
+#: inc/getting-started.php:58
+msgid "If you want to check our demo then you can visit us at:"
+msgstr ""
+
+#: inc/getting-started.php:59
+msgid "View Demo »"
+msgstr ""
+
+#: inc/getting-started.php:65
+msgid "About Theme"
+msgstr ""
+
+#: inc/getting-started.php:68
+msgid "You can get the detail information about the theme from here:"
+msgstr ""
+
+#: inc/getting-started.php:69
+msgid "Know more about our theme »"
+msgstr ""
+
+#: inc/getting-started.php:75
+msgid "Five Star Support"
+msgstr ""
+
+#: inc/getting-started.php:78
+msgid ""
+"Got a question? Get in touch with Sublime Theme Support Department. We are "
+"happy to help!"
+msgstr ""
+
+#: inc/getting-started.php:79
+msgid "Get Support »"
+msgstr ""
+
+#: inc/getting-started.php:85
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/getting-started.php:88
+msgid ""
+"If you like what you saw and felt it good about the theme you can help us "
+"by reviewing it on WordPress"
+msgstr ""
+
+#: inc/getting-started.php:89
+msgid "Leave us a review »"
+msgstr ""
+
+#: inc/getting-started.php:124
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/getting-started.php:125
+msgid ""
+"%1$s is now installed and ready to use. Click below to see theme "
+"documentation and other details to get started."
+msgstr ""
+
+#: inc/getting-started.php:126
+msgid "Go to the Getting Started."
+msgstr ""
+
+#: inc/getting-started.php:127
+msgid "Dismiss"
+msgstr ""
+
+#: inc/info.php:12
+msgid "Information Links"
+msgstr ""
+
+#: inc/info.php:25
+msgid "View demo"
+msgstr ""
+
+#: inc/info.php:26
+msgid "View documentation"
+msgstr ""
+
+#: inc/info.php:27
+msgid "Theme info"
+msgstr ""
+
+#: inc/info.php:28
+msgid "Support ticket"
+msgstr ""
+
+#: inc/info.php:29
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/metabox.php:11
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:38
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-functions.php:58
+msgid "Close"
+msgstr ""
+
+#: inc/template-functions.php:60
+msgid "Mobile"
+msgstr ""
+
+#: inc/template-functions.php:137
+#. translators: Category archive title. 1: Category name
+msgid "%1$sCategory%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:140
+#. translators: Tag archive title. 1: Tag name
+msgid "%1$sTag%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:143
+#. translators: Author archive title. 1: Author name
+msgid "%1$sAuthor%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:146
+#. translators: Yearly archive title. 1: Year
+msgid "%1$sYear%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:149
+#. translators: Monthly archive title. 1: Month name and year
+msgid "%1$sMonth%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:152
+#. translators: Daily archive title. 1: Date
+msgid "%1$sDay%2$s %3$s"
+msgstr ""
+
+#: inc/template-functions.php:155
+#. translators: Post type archive title. 1: Post type name
+msgid "%1$sArchives%2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:84
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:109
+#. translators: 1: list of tags.
+msgid "%1$sTags:%2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:117
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:201
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/template-tags.php:215
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will "
+"be visible after it has been approved."
+msgstr ""
+
+#: inc/template-tags.php:286
+msgid "Choose Category"
+msgstr ""
+
+#: inc/upgrade/class-upgrade.php:76
+msgid "Pro Theme Available"
+msgstr ""
+
+#: inc/upgrade/class-upgrade.php:77
+msgid "View Pro Theme"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:31
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:20
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:36
+msgid "Continue Reading"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Sublime Blog"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://sublimetheme.com/wordpress-themes/sublime-blog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sublime Blog is a simple, fast, and easily customizable free WordPress blog "
+"theme. This theme is perfect for blogging purposes. Sublime Blog is fully "
+"SEO optimized, responsive and looks perfect on any device, including "
+"desktops, laptops, mobiles, tablets, etc. Sublime Blog is also fully "
+"customizable in terms of menu, footer, slider, and options, making websites "
+"look appealing. Everything is so simple and well organized, you can create "
+"any type of blog easily. The sublime blog is RTL, and translation ready. "
+"Whether you are a travel blogger, photographer, or food blogger Sublime "
+"Blog is just the perfect choice for you! Check theme demo at "
+"https://demo.sublimetheme.com/sublime-blog/, read the documentation at "
+"https://docs.sublimetheme.com/sublime-blog/ and get support at "
+"https://sublimetheme.com/support/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sublime Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sublimetheme.com/"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:190
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:198
+#. translators: If there are characters in your language that are not supported
+#. by Leckerli One, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Leckerli One font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:146
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:149
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-functions.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:49
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "By %s"
+msgstr ""

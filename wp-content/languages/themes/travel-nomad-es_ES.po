@@ -1,0 +1,169 @@
+# Translation of Themes - Travel Nomad in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Travel Nomad package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-07 19:31:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Travel Nomad\n"
+
+#. Description of the theme
+msgid "Travel Nomad is a beautiful and extremely customizable theme to create a professional travel blog. This multipurpose theme can be also used for creating different types of blogs such as fashion, lifestyle, journal, beauty, parenting, recipes, and many more. It includes sections such as Banner with CTA, About, Latest Posts, and Map to share your travel tips and expertise. With the Instagram section, you can flaunt your travel posts and increase your followers. The newsletter integration will help you grow your email list and stay in touch with your readers. Travel Nomad is SEO-friendly, speed optimized, mobile-friendly, translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=travel-nomad, read the documentation at https://docs.blossomthemes.com/travel-nomad/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Travel Nomad es un tema bonito y extremadamente personalizable para crear un blog profesional de viajes. Este tema multiuso también se puede usar para crear diferentes tipos de blogs, como moda, estilo de vida, diario, belleza, padres, recetas y muchos más. Incluye secciones como un banner con CTA, acerca de, últimas entradas y mapa para compartir tus consejos y experiencias de viaje. Con la sección Instagram, puedes hacer alarde de tus entradas de viajes y aumentar tus seguidores. La integración del boletín te ayudará a aumentar tu lista de correo electrónico y a mantenerte en contacto con tus lectores. Travel Nomad está optimizado para SEO, optimizado para la velocidad, amigable con los móviles, preparado para traducción, preparado para RTL y es compatible con WooCommerce. Revisa la demostración en https://blossomthemes.com/theme-demo/?theme=travel-nomad, lee la documentación en https://docs.blossomthemes.com/travel-nomad/ y obtén soporte en https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Travel Nomad"
+msgstr "Travel Nomad"
+
+#: functions.php:1022
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: functions.php:1022
+msgid " Powered by %s"
+msgstr " Funciona con %s"
+
+#: functions.php:1020
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+#: functions.php:1019
+msgid " Travel Nomad | Developed By "
+msgstr "  Travel Nomad | Desarrollado por"
+
+#: functions.php:395
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:394
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:337
+msgid "This is the general sidebar layout for whole site."
+msgstr "Este es el diseño general de la barra lateral para todo el sitio."
+
+#: functions.php:336
+msgid "Default Sidebar Layout"
+msgstr "Diseño por defecto de la barra lateral"
+
+#: functions.php:310
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Este es el diseño general de la barra lateral para las entradas y las entradas personalizadas. Puedes anular el diseño de la barra lateral de una entrada individual en la propia entrada."
+
+#: functions.php:309
+msgid "Post Sidebar Layout"
+msgstr "Diseño de la barra lateral de las entradas"
+
+#: functions.php:283
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Este es el diseño general de la barra lateral para las páginas. Puedes anular el diseño de la barra lateral de una página individual en la propia página."
+
+#: functions.php:282
+msgid "Page Sidebar Layout"
+msgstr "Diseño de la barra lateral de las páginas "
+
+#: functions.php:261
+msgid "General Sidebar Layout"
+msgstr "Diseño general de la barra lateral"
+
+#: functions.php:248
+msgid "Choose the layout of the header for your site."
+msgstr "Elige el diseño de la cabecera para tu sitio."
+
+#: functions.php:226 functions.php:247
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions.php:218
+msgid "Change different page layout from here."
+msgstr "Cambia aquí a un diseño de página diferente."
+
+#: functions.php:217
+msgid "Layout Settings"
+msgstr "Ajustes del diseño"
+
+#: functions.php:195
+msgid "Change the font size of your site."
+msgstr "Cambia el tamaño de la fuente de tu sitio."
+
+#: functions.php:194
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: functions.php:172
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:171
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:150
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:149
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:129
+msgid "Typography Settings"
+msgstr "Ajustes de la tipografía"
+
+#: functions.php:118
+msgid "Secondary color of the theme."
+msgstr "Color secundario del tema."
+
+#: functions.php:117
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: functions.php:96
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:95
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:77
+msgid "Customize Color, Typography & Background Image"
+msgstr "Personaliza el color, la tipografía y la imagen de fondo"
+
+#: functions.php:76
+msgid "Appearance Settings"
+msgstr "Ajustes de la apariencia"
+
+#: functions.php:58
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la documentación: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:56
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:43
+msgid "Demo & Documentation"
+msgstr "Demostración y documentación"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/wordpress-themes/travel-nomad/"
+msgstr "https://blossomthemes.com/wordpress-themes/travel-nomad/"

@@ -1,0 +1,298 @@
+# Translation of Themes - Turnkey Storefront in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Turnkey Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-20 23:43:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Turnkey Storefront\n"
+
+#. Description of the theme
+msgid "Turnkey Storefront is an online store oriented theme designed to work with the Reseller Store plugin. The built in customizer allows you to to set your site identity, layout, colors, media, menu, widgets, social media menu and more. This is a Primer child theme."
+msgstr "Turnkey Storefront es un tema orientado a tiendas online y diseñado para funcionar con el plugin Reseller Store. El personalizador incorporado te permite establecer la identidad de tu sitio, el diseño, los colores, los medios, el menú, los widgets, el menú de redes sociales y más. Este es un tema hijo de Primer."
+
+#. Theme Name of the theme
+msgid "Turnkey Storefront"
+msgstr "Turnkey Storefront"
+
+#: functions.php:268
+msgid "This will add H1 tag using page title (excludes Home Page)"
+msgstr "Esto añadirá la etiqueta H1 usando el título de la página (excluye la página de inicio)"
+
+#: functions.php:267
+msgid "Add Hero on Posts and Pages."
+msgstr "Añadir estilo «Hero» en artículos y páginas."
+
+#: templates/top-nav.php:62
+msgid "Visit My Account"
+msgstr "Visita «Mi cuenta»"
+
+#: templates/top-nav.php:57
+msgid "View"
+msgstr "Ver"
+
+#: templates/top-nav.php:56
+msgid "PIN:"
+msgstr "PIN:"
+
+#: templates/top-nav.php:12
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: inc/customizer/colors.php:187
+msgid "Product icons"
+msgstr "Iconos de producto"
+
+#: inc/nux/class-turnkey-storefront-nux.php:178
+msgid "To enable eCommerce features you need to install, activate, and setup the"
+msgstr "Para activar las características de comercio electrónico tienes que instalar, activar y configurar el"
+
+#: inc/nux/class-turnkey-storefront-nux.php:178
+msgid "Reseller Store plugin."
+msgstr "plugin Reseller Store."
+
+#: inc/nux/class-turnkey-storefront-nux.php:169
+msgid "Install Reseller Store"
+msgstr "Instalar Reseller Store"
+
+#: inc/nux/class-turnkey-storefront-nux.php:151
+msgid "Activate Reseller Store"
+msgstr "Activar Reseller Store"
+
+#: inc/nux/class-turnkey-storefront-nux.php:145
+msgid "Setup Reseller Store"
+msgstr "Configurar Reseller Store"
+
+#: inc/nux/class-turnkey-storefront-nux.php:119
+msgid "Sorry, you are not allowed to do that."
+msgstr "Lo siento, no tienes permiso para hacer eso."
+
+#: inc/nux/class-turnkey-storefront-nux.php:103
+msgid "Thanks for installing Turnkey Storefront Theme"
+msgstr "Gracias por instalar el tema Turnkey Storefront"
+
+#: templates/top-nav.php:63
+msgid "Log Out"
+msgstr "Salir"
+
+#: templates/top-nav.php:61
+msgid "My Renewals"
+msgstr "Mis renovaciones"
+
+#: templates/top-nav.php:60
+msgid "Account Settings"
+msgstr "Ajustes de la cuenta"
+
+#: templates/top-nav.php:59
+msgid "My Products"
+msgstr "Mis productos"
+
+#: templates/top-nav.php:55
+msgid "Customer #:"
+msgstr "Cliente #:"
+
+#: templates/top-nav.php:27
+msgid "Have an account? Sign in now."
+msgstr "¿Tienes una cuenta? Accede ahora."
+
+#: templates/top-nav.php:26
+msgid "Registered Users"
+msgstr "Usuarios registrados"
+
+#: templates/top-nav.php:38
+msgid "Create my account"
+msgstr "Crear mi cuenta"
+
+#. translators: site title
+#: templates/top-nav.php:35
+msgid "New to %s? Create an account to get started today."
+msgstr "¿Nuevo en %s? Crea una cuenta para comenzar hoy."
+
+#: templates/top-nav.php:31
+msgid "New Customer"
+msgstr "Nuevo cliente"
+
+#: templates/top-nav.php:20 templates/top-nav.php:28
+msgid "Sign in"
+msgstr "Acceder"
+
+#: templates/top-nav.php:14
+msgid "Help"
+msgstr "Ayuda"
+
+#. translators: right arrow (LTR) / left arrow (RTL)
+#: templates/reseller-store/list-product.php:40
+msgid "More Info %s"
+msgstr "Más información %s"
+
+#. translators: post title
+#: templates/reseller-store/list-product.php:40
+msgid "More info %s"
+msgstr "Más información %s"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:696
+msgid "Terra Nova"
+msgstr "Terra Nova"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:675
+msgid "Sunset"
+msgstr "Atardecer"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:654
+msgid "Sunrise"
+msgstr "Amanecer"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:633
+msgid "Spring"
+msgstr "Primavera"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:612
+msgid "Spa"
+msgstr "Spa"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:591
+msgid "Soft"
+msgstr "Suave"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:570
+msgid "Sand"
+msgstr "Arena"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:549
+msgid "Professional"
+msgstr "Profesional"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:528
+msgid "Pink"
+msgstr "Rosado"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:507
+msgid "Papaya"
+msgstr "Papaya"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:486
+msgid "Oh Lala"
+msgstr "Oh Lala"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:465
+msgid "Ocean"
+msgstr "Océano"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:444
+msgid "Nature"
+msgstr "Naturaleza"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:423
+msgid "Muted"
+msgstr "Apagado"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:402
+msgid "Museum"
+msgstr "Museo"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:381
+msgid "Modern"
+msgstr "Moderno"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:360
+msgid "Jewels"
+msgstr "Joyas"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:339
+msgid "Jetlag"
+msgstr "Jetlag"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:318
+msgid "Eggplant"
+msgstr "Berenjena"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:297
+msgid "Earth"
+msgstr "Tierra"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:276
+msgid "California Sunset"
+msgstr "Puesta de sol de California"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:255
+msgid "Berry"
+msgstr "Baya"
+
+#. translators: color scheme name
+#: inc/customizer/colors.php:234
+msgid "Autumn"
+msgstr "Otoño"
+
+#: inc/customizer/colors.php:177
+msgid "Account info Background"
+msgstr "Fondo de la información de la cuenta"
+
+#: inc/customizer/colors.php:167
+msgid "Account info Text"
+msgstr "Texto de la información de la cuenta"
+
+#: inc/customizer/colors.php:157
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: inc/customizer/colors.php:140
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/colors.php:82
+msgid "Navigation Text"
+msgstr "Texto de navegación"
+
+#: inc/customizer/colors.php:72
+msgid "Submenu Text"
+msgstr "Texto del submenú"
+
+#: functions.php:248
+msgid "Display reseller support phone number"
+msgstr "Mostrar el número de teléfono de soporte del revendedor"
+
+#: functions.php:145
+msgid "This sidebar is the fourth column of the footer widget area."
+msgstr "Esta barra lateral es la cuarta columna del área de widgets del pie de página."
+
+#: functions.php:144
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#. Author URI of the theme
+msgid "https://www.turnkeystorefront.dev"
+msgstr "https://www.turnkeystorefront.dev"
+
+#. Author of the theme
+msgid "Bryan Focht"
+msgstr "Bryan Focht"
+
+#. Theme URI of the theme
+msgid "https://github.com/Resellers/wp-turnkey-theme"
+msgstr "https://github.com/Resellers/wp-turnkey-theme"

@@ -1,0 +1,644 @@
+# Translation of Themes - Perfect Magazine in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Perfect Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-20 17:49:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Perfect Magazine\n"
+
+#. Theme Name of the theme
+msgid "Perfect Magazine"
+msgstr "Perfect Magazine"
+
+#: inc/widgets/widgets.php:1223
+msgid "Instagram URL:"
+msgstr "URL de Instagram:"
+
+#. Translators: %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:325
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the search query.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:321
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/customizer/theme-option.php:260
+msgid "Disable Image Zoom in Archive "
+msgstr "Desactivar el zoom de la imagen en el archivo"
+
+#: template-parts/content.php:122 template-parts/content-single.php:38
+#: template-parts/content-page.php:39
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/widgets/widgets.php:1367
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "El menú social no está establecido. Tienes que crear el menú y asignarlo al menú social en los ajustes de menús."
+
+#: inc/widgets/widgets.php:1323
+msgid "PM: Social Menu Widget"
+msgstr "PM: Widget del menú social"
+
+#: inc/widgets/widgets.php:1313
+msgid "Note: Displays social menu if you have set it(social menu)"
+msgstr "Nota: Muestra el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:1307
+msgid "Displays social menu if you have set it(social menu)"
+msgstr "Muestra el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:1229
+msgid "PM: Author Widget"
+msgstr "PM: Widget del autor"
+
+#: inc/widgets/widgets.php:1218
+msgid "Twitter URL:"
+msgstr "URL de Twitter:"
+
+#: inc/widgets/widgets.php:1213
+msgid "Facebook URL:"
+msgstr "URL de Facebook:"
+
+#: inc/widgets/widgets.php:1209
+msgid "Author Image:"
+msgstr "Imagen del autor:"
+
+#: inc/widgets/widgets.php:1199
+msgid "Name:"
+msgstr "Nombre:"
+
+#: inc/widgets/widgets.php:1189
+msgid "Displays authors details in post."
+msgstr "Muestra los detalles del autor en la entrada."
+
+#: inc/widgets/widgets.php:1155
+msgctxt "Tabbed Widget"
+msgid "on"
+msgstr "en"
+
+#: inc/widgets/widgets.php:955
+msgid "PM: Sidebar Tab Widget"
+msgstr "PM: Widget de pestañas de la barra lateral"
+
+#: inc/widgets/widgets.php:946
+msgid "No. of Comments:"
+msgstr "Número de comentarios:"
+
+#: inc/widgets/widgets.php:942 inc/widgets/widgets.php:994
+#: inc/widgets/widgets.php:996
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/widgets/widgets.php:930 inc/widgets/widgets.php:987
+#: inc/widgets/widgets.php:989
+msgid "Recent"
+msgstr "Recientes"
+
+#: inc/widgets/widgets.php:909 inc/widgets/widgets.php:934
+msgid "No. of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:905 inc/widgets/widgets.php:980
+#: inc/widgets/widgets.php:982
+msgid "Popular"
+msgstr "Populares"
+
+#: inc/widgets/widgets.php:901
+msgid "Tabbed widget."
+msgstr "Widget de pestañas."
+
+#: inc/widgets/widgets.php:840 inc/widgets/widgets.php:1090
+msgid "Published on : "
+msgstr "Publicado el:"
+
+#: inc/widgets/widgets.php:759
+msgid "PM: Recent/Popular Post Widget"
+msgstr "PM: Widget de entradas recientes/populares"
+
+#: inc/widgets/widgets.php:743 inc/widgets/widgets.php:923
+msgid "Number of words"
+msgstr "Número de palabras"
+
+#: inc/widgets/widgets.php:742 inc/widgets/widgets.php:922
+msgid "Excerpt Length:"
+msgstr "Longitud del extracto:"
+
+#: inc/widgets/widgets.php:737 inc/widgets/widgets.php:917
+msgid "Enable Description:"
+msgstr "Activar la descripción:"
+
+#: inc/widgets/widgets.php:717
+msgid "Displays post form selected category specific for popular post in sidebars."
+msgstr "Muestra las entradas de una categoría específica seleccionada para las entradas populares en las barras laterales."
+
+#: inc/widgets/widgets.php:482
+msgid "PM: Slider Widget"
+msgstr "PM: Widget del carrusel"
+
+#: inc/widgets/widgets.php:463
+msgid "Displays posts from selected category in slider"
+msgstr "Muestra las entradas de la categoría seleccionada en el carrusel"
+
+#: inc/widgets/widgets.php:88 inc/widgets/widgets.php:265
+#: inc/widgets/widgets.php:473 inc/widgets/widgets.php:598
+#: inc/widgets/widgets.php:750
+msgid "Number of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:85 inc/widgets/widgets.php:249
+#: inc/widgets/widgets.php:470 inc/widgets/widgets.php:595
+#: inc/widgets/widgets.php:734
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/widgets.php:83 inc/widgets/widgets.php:247
+#: inc/widgets/widgets.php:468 inc/widgets/widgets.php:593
+#: inc/widgets/widgets.php:732
+msgid "Select Category:"
+msgstr "Seleccionar una categoría:"
+
+#: inc/widgets/widgets.php:73 inc/widgets/widgets.php:237
+#: inc/widgets/widgets.php:727 inc/widgets/widgets.php:1204
+#: inc/widgets/widgets.php:1318
+msgid "Description:"
+msgstr "Descripción:"
+
+#: inc/widgets/widgets.php:68 inc/widgets/widgets.php:232
+#: inc/widgets/widgets.php:722 inc/widgets/widgets.php:1194
+#: inc/widgets/widgets.php:1312
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widget-base-class.php:289
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Choose Image"
+msgstr "Elegir una imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Select Image"
+msgstr "Seleccionar una imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widget-init.php:55
+msgid "Footer Column Three"
+msgstr "Columna tres del pie de página"
+
+#: inc/widget-init.php:44
+msgid "Footer Column Two"
+msgstr "Columna dos del pie de página"
+
+#: inc/widget-init.php:36 inc/widget-init.php:46 inc/widget-init.php:57
+msgid "Displays items on footer section."
+msgstr "Muestra los elementos en la sección del pie de página."
+
+#: inc/widget-init.php:34
+msgid "Footer Column One"
+msgstr "Columna uno del pie de página"
+
+#: inc/widget-init.php:22
+msgid "Homepage Widget Area"
+msgstr "Área de widgets de la página de inicio"
+
+#: inc/widget-init.php:13 inc/widget-init.php:24
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: inc/widget-init.php:11
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/template-tags.php:123
+msgid "Tagged in :"
+msgstr "Etiquetado en:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+msgid "(Edit This Post) %s"
+msgstr "(Editar esta entrada) %s"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#: inc/template-tags.php:92
+msgid "Categorized in :"
+msgstr "En la categoría:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76 inc/template-tags.php:90 inc/template-tags.php:121
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:48
+msgid "By : %s"
+msgstr "Por: %s"
+
+#: inc/template-tags.php:35
+msgid "Published by : %s"
+msgstr "Publicado por: %s"
+
+#: inc/template-tags.php:30
+msgid "Published on : %s"
+msgstr "Publicado en: %s"
+
+#: inc/layout-meta/layout-meta.php:102
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: inc/layout-meta/layout-meta.php:89
+msgid "Single Page/Post Image Layout"
+msgstr "Diseño de la imagen en las páginas/entradas individuales"
+
+#: inc/layout-meta/layout-meta.php:71
+msgid "Single Page/Post Layout"
+msgstr "Diseño de las páginas/entradas individuales"
+
+#: inc/layout-meta/layout-meta.php:64
+msgid "Check To Use Featured Image As Banner Image"
+msgstr "Marcar para usar la imagen destacada como imagen del banner"
+
+#: inc/layout-meta/layout-meta.php:54
+msgid "Layout Settings"
+msgstr "Ajustes del diseño"
+
+#: inc/layout-meta/layout-meta.php:22
+msgid "Single Page/Post Settings"
+msgstr "Ajustes de las páginas/entradas individuales"
+
+#: inc/hooks/header-inner-page.php:44
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/hooks/header-inner-page.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: inc/customizer/theme-option.php:424
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/customizer/theme-option.php:423
+msgid "Simple"
+msgstr "Sencillo"
+
+#: inc/customizer/theme-option.php:422
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/customizer/theme-option.php:418
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr "Avanzado: Necesita el plugin %1$sBreadcrumb NavXT%2$s"
+
+#: inc/customizer/theme-option.php:417
+msgid "Breadcrumb Type"
+msgstr "Tipo de migas de pan"
+
+#: inc/customizer/theme-option.php:400
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: inc/customizer/theme-option.php:390
+msgid "Enable Preloader"
+msgstr "Activar el precargador"
+
+#: inc/customizer/theme-option.php:373
+msgid "Preloader Options"
+msgstr "Opciones del precargador"
+
+#: inc/customizer/theme-option.php:363
+msgid "Footer Copyright Text"
+msgstr "Texto de copyright del pie de página"
+
+#: inc/customizer/theme-option.php:348
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/theme-option.php:347
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/theme-option.php:346
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/theme-option.php:340
+msgid "Number Of Footer Widget"
+msgstr "Número del widget del pie de página"
+
+#: inc/customizer/theme-option.php:323
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/theme-option.php:314
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/customizer/theme-option.php:313
+msgid "Default (Older / Newer Post)"
+msgstr "Por defecto (entrada anterior / siguiente)"
+
+#: inc/customizer/theme-option.php:309
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer/theme-option.php:292
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer/theme-option.php:282
+msgid "No image"
+msgstr "Sin imagen"
+
+#: inc/customizer/theme-option.php:281 inc/layout-meta/layout-meta.php:96
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/theme-option.php:280 inc/layout-meta/layout-meta.php:99
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/theme-option.php:279 inc/layout-meta/layout-meta.php:93
+msgid "Full"
+msgstr "Completo"
+
+#: inc/customizer/theme-option.php:276
+msgid "Single Post/Page Image Alocation"
+msgstr "Ubicación de la imagen en las entradas/páginas individuales"
+
+#: inc/customizer/theme-option.php:242 inc/layout-meta/layout-meta.php:81
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/theme-option.php:241 inc/layout-meta/layout-meta.php:75
+msgid "Primary Sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/customizer/theme-option.php:240 inc/layout-meta/layout-meta.php:78
+msgid "Content - Primary Sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/customizer/theme-option.php:237
+msgid "Global Layout"
+msgstr "Diseño global"
+
+#: inc/customizer/theme-option.php:220
+msgid "Boxed"
+msgstr "En cajas"
+
+#: inc/customizer/theme-option.php:219
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/theme-option.php:216
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: inc/customizer/theme-option.php:199
+msgid "Enable Banner Overlay"
+msgstr "Activar la superposición del banner"
+
+#: inc/customizer/theme-option.php:182
+msgid "Enable Static Page Content"
+msgstr "Activar el contenido de la página estática"
+
+#: inc/customizer/theme-option.php:165
+msgid "Change the first letter to normal one in single page"
+msgstr "Cambiar la primera letra por una normal en la página individual"
+
+#: inc/customizer/theme-option.php:164
+msgid "Enable Large letter "
+msgstr "Activar la letra grande"
+
+#: inc/customizer/theme-option.php:147
+msgid "Layout Management"
+msgstr "Gestión del diseño"
+
+#: inc/customizer/theme-option.php:128
+msgid "URL Link"
+msgstr "URL del enlace"
+
+#: inc/customizer/theme-option.php:111
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Tamaño recomendado %1$s px X %2$s px"
+
+#: inc/customizer/theme-option.php:92
+msgid "Header Section"
+msgstr "Sección de la cabecera"
+
+#: inc/customizer/theme-option.php:31
+msgid "Enable Slider"
+msgstr "Activar el carrusel"
+
+#: inc/customizer/theme-option.php:14
+msgid "Slider Section"
+msgstr "Sección del carrusel"
+
+#: inc/customizer/customizer.php:42
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/customizer/customizer.php:41
+msgid "Perfect Magazine Pro"
+msgstr "Perfect Magazine Pro"
+
+#: inc/customizer/customizer-default.php:46
+msgid "Copyright All rights reserved"
+msgstr "Copyright. Todos los derechos reservados."
+
+#: inc/customizer/theme-option.php:138
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: header.php:126
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: header.php:59
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:139
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:134
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:71
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:70
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:108
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %2$s por %1$s."
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:48 comments.php:68
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: comments.php:46 comments.php:66
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:43 comments.php:63
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:869
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:841
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1270
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:840
+#: assets/libraries/breadcrumbs/breadcrumbs.php:896
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1266
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:839
+#: assets/libraries/breadcrumbs/breadcrumbs.php:868
+#: assets/libraries/breadcrumbs/breadcrumbs.php:895
+#: assets/libraries/breadcrumbs/breadcrumbs.php:922
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1262
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:823
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:806
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:789
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:329
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:327
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:323
+msgid "Page %s"
+msgstr "Página %s"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:319
+msgid "Archives"
+msgstr "Archivo"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:318
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:317
+msgid "Home"
+msgstr "Inicio"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:316
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:315
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#. Author URI of the theme
+msgid "https://thememattic.com"
+msgstr "https://thememattic.com"
+
+#. Author of the theme
+msgid "Thememattic"
+msgstr "Thememattic"
+
+#. Theme URI of the theme
+msgid "https://thememattic.com/theme/perfect-magazine/"
+msgstr "https://thememattic.com/theme/perfect-magazine/"

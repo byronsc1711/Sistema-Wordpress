@@ -1,0 +1,627 @@
+# Copyright (C) 2020 AitThemes
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Citadela 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-21T07:54:05+00:00\n"
+"PO-Revision-Date: 2020-05-21 15:28+0200\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Domain: citadela\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.citadelawp.com/free-wordpress-theme/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks "
+"and Elementor Page Builder. Best for business, personal webs & blogs."
+msgstr ""
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.citadelawp.com/"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:18
+msgid "Citadela Theme"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:7
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:7
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:7
+msgid "Created by AitThemes"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:8
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid ""
+"Citadela is a free multi-purpose WordPress theme created by AitThemes. You "
+"can use it without any restrictions on your commercial or non-commercial "
+"website. We have also created premium versions of Citadela that will shift "
+"your website to the whole new level."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:18
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "Citadela Business"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:23
+msgid ""
+"Citadela Business extends free Citadela theme with advanced options that "
+"will allow you to customize look & feel of your website. Using WordPress "
+"Customizer you will be able to change fonts, configure color, choose "
+"different header, footer, sidebars and other layout settings. Extends "
+"default WordPress block editor with new useful blocks. These blocks can be "
+"used just like standard WordPress ones, on any page or blog post. This "
+"plugin can be also used with any WordPress theme compatible with blocks "
+"editor."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+msgid "Various theme layout options"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+msgid "Different headers"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "200+ Google fonts"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:29
+msgid "Smart color management with unlimited colors"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+msgid "Responsive sidebars"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:31
+msgid "Full support for WP Customizer"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:32
+msgid "Cluster block"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:33
+msgid "Services with several layouts"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:34
+msgid "Custom Page Title"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:37
+msgid "Get Citadela Business"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:46
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:50
+#: citadela-theme/admin/settings/templates/_layout_packs.php:31
+msgid "Citadela Listing"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:51
+msgid ""
+"Citadela Listing knows everything you need to turn your standard website "
+"into directory portal. It will allow you to add unlimited listing items, "
+"categorize them to locations and categories. You can show them on map, "
+"filter and search. Everything is nicely integrated to WordPress block "
+"editor. This plugin can be used with any WordPress theme compatible with "
+"blocks editor."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Unlimited listing items"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Categories & Locations"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Maps with search feature"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:57
+msgid "Listing item detail page customizable using blocks"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:58
+msgid "Customizable search results page using blocks"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:59
+msgid "Customizable categories & locations page using blocks"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:62
+msgid "Get Citadela Listing"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:8
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:8
+msgid "Citadela Dashboard by AitThemes"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:9
+msgid ""
+"Thank you for using premium Citadela plugins. As paying AitThemes customer "
+"you have access to our support forum and documentation."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:18
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:18
+msgid "Documentation"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:21
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:21
+msgid "Helpful Documentation"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:22
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:22
+msgid ""
+"Citadela documentation includes everything you need to understand how theme "
+"and premium plugins work. It is written for you and other users to get to "
+"know our theme as quickly as possible. Documentation is updated on daily "
+"basis. Includes description of new features and frequently asked questions "
+"from our support."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:23
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:23
+msgid "Start Reading"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:31
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:31
+msgid "Customer support"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:34
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:34
+msgid "Support Access"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:35
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:35
+msgid ""
+"Trained support team will help you to start working on your website quickly. "
+"Our goal is to teach you how to use our products efficiently and the right "
+"way. Support system is fully confidential and closed, you can ask there any "
+"question regarding our theme you like. Please bear in mind that we do not do "
+"any customizations. There are plenty of location designers that will be "
+"happy to help you with your custom ideas."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:36
+#: citadela-theme/admin/settings/templates/citadela-tf-screen.php:36
+msgid "Visit Support"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:6
+msgid "Citadela Architect"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:7
+msgid "Architect Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:12
+msgid "Business Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:16
+msgid "Citadela Doctor"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:17
+msgid "Doctor Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:21
+msgid "Citadela Free"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:22
+msgid "Free Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:26
+msgid "Citadela Hotel"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:27
+msgid "Hotel Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:32
+msgid "Listing Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:36
+msgid "Citadela Photographer"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:37
+msgid "Photographer Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:41
+msgid "Citadela Restaurant"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:42
+msgid "Restaurant Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:46
+msgid "Citadela Eco"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:47
+msgid "Eco Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:51
+msgid "Citadela Furniture"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:52
+msgid "WooCommerce Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:56
+msgid "Citadela Farms"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:57
+msgid "Directory WooCommerce Layout Pack"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:63
+msgid "Ready to use Citadela layouts"
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:65
+msgid ""
+"You can import any of these layouts to start building your website. Layout "
+"can be imported using Citadela Pro plugin. Layout packages can be found in "
+"the main zip file you can download from Themeforest."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:67
+msgid ""
+"You can import any of these layouts to start building your website. Layout "
+"can be imported using Citadela Pro plugin."
+msgstr ""
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:99
+msgid "Download layouts"
+msgstr ""
+
+#: citadela-theme/CitadelaTheme.php:626
+msgid "Previous"
+msgstr ""
+
+#: citadela-theme/CitadelaTheme.php:627
+msgid "Next"
+msgstr ""
+
+#: citadela-theme/CitadelaTheme.php:644
+msgid "Fullwidth page"
+msgstr ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr ""
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid ""
+"We've noticed that you're running an outdated version of PHP which is no "
+"longer supported. Make sure your site is fast and secure, by <a "
+"href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for "
+"%2$s is <strong>PHP 5.6.20</strong>."
+msgstr ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr ""
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid ""
+"We've noticed that you're running an outdated version of WordPress. Make "
+"sure your site is secure, by <a href='%1$s'>updating WordPress to the latest "
+"version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr ""
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid ""
+"We've noticed that you're running Citadela incompatible AIT plugins (%s) so "
+"we deactivated them."
+msgstr ""
+
+#: citadela-theme/config/config.php:16 functions.php:20
+msgid "Main menu"
+msgstr ""
+
+#: citadela-theme/config/config.php:17 functions.php:21
+msgid "Footer menu"
+msgstr ""
+
+#: citadela-theme/customizer.php:44
+msgid "Hide Site Title and Tagline"
+msgstr ""
+
+#: citadela-theme/customizer.php:59 footer.php:25
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr ""
+
+#: citadela-theme/customizer.php:68
+msgid "Footer Text"
+msgstr ""
+
+#: citadela-theme/customizer.php:103
+msgid "Pro Features"
+msgstr ""
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid ""
+"Citadela is a free multi-purpose WordPress theme created by AitThemes. You "
+"can use it without any restrictions on your commercial or non-commercial "
+"website."
+msgstr ""
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid ""
+"We have also created premium versions of Citadela that will shift your "
+"website to the whole new level."
+msgstr ""
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr ""
+
+#: citadela-theme/template-tags.php:32
+msgid "Posted on"
+msgstr ""
+
+#: citadela-theme/template-tags.php:84
+msgid "by"
+msgstr ""
+
+#: citadela-theme/template-tags.php:103
+msgid "Posted in"
+msgstr ""
+
+#: citadela-theme/template-tags.php:123
+msgid "Tagged"
+msgstr ""
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:148
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:162
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr ""
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:167
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:190
+#: template-parts/content-attachment.php:35 template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr ""
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr ""
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr ""
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr ""
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr ""
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr ""
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr ""
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr ""
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr ""
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:17
+msgid "Skip to content"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr ""
+
+#: template-parts/content-attachment.php:22 template-parts/content-page.php:18
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/page_title.php:182
+msgid "Category archives: "
+msgstr ""
+
+#: template-parts/page_title.php:214
+msgid "Author archives: "
+msgstr ""
+
+#: template-parts/page_title.php:242
+msgid "Tag archives: "
+msgstr ""
+
+#: template-parts/page_title.php:270
+msgid "Date archives: "
+msgstr ""
+
+#: template-parts/page_title.php:310
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/page_title.php:322
+msgid "Search results for: "
+msgstr ""
+
+#: design/js/build/editor.js:111 design/js/editor.js:10
+msgid "Hide page title section"
+msgstr ""
+
+#: design/js/build/editor.js:117 design/js/editor.js:15
+msgid "Remove space under header"
+msgstr ""
+
+#: design/js/build/editor.js:158 design/js/editor.js:61
+msgid "Citadela Page Settings"
+msgstr ""

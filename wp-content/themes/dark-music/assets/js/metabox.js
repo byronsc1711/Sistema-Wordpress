@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#dark-music-ui-tabs").tabs()});

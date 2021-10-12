@@ -1,0 +1,262 @@
+# Translation of Themes - Innovatory in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Innovatory package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-30 22:14:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Innovatory\n"
+
+#. Description of the theme
+msgid "Innovatory a free responsive pure WordPress blog theme using the Bootstrap framework. It is an easy to use blogging theme with minimal and modern design. With a focus on blogger/news sites, it features multiple sections on the front page as well as widgets, navigation and social menus, and more."
+msgstr "«Innovatory» es un tema de blogs para WordPress puro, adaptable y gratuito que utiliza el marco de trabajo Bootstrap. Es un tema para blogs fácil de usar con un diseño minimalista y moderno. Con un enfoque para blogueros y sitios de noticias, presenta múltiples secciones en la página principal, así como widgets, menús de navegación y sociales y más."
+
+#. Theme Name of the theme
+msgid "Innovatory"
+msgstr "Innovatory"
+
+#: footer.php:34
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:34
+msgid "Copyright %1$d | Theme %2$s"
+msgstr "Copyright %1$d | Tema %2$s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/custom-header.php:208
+msgid "No Sidebar"
+msgstr "Sin barras laterales"
+
+#: inc/custom-header.php:207
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/custom-header.php:206
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda "
+
+#: inc/custom-header.php:201
+msgid "Enable Sidebar"
+msgstr "Activar la barra lateral"
+
+#: inc/custom-header.php:192
+msgid "Sidebar Option"
+msgstr "Opciones de la barra lateral"
+
+#: inc/custom-header.php:185
+msgid "Title Text color"
+msgstr "Color del texto del título"
+
+#: inc/custom-header.php:169
+msgid "Post Meta"
+msgstr "Metadatos de la entrada"
+
+#: inc/custom-header.php:157
+msgid "Slider indicators"
+msgstr "Indicadores del carrusel"
+
+#: inc/custom-header.php:145
+msgid "Slider arrows"
+msgstr "Flechas del carrusel"
+
+#: inc/custom-header.php:133
+msgid "Slider fluid layout"
+msgstr "Diseño fluido del carrusel"
+
+#: inc/custom-header.php:121
+msgid "Show/Hide Slider"
+msgstr "Mostrar u ocultar el carrusel"
+
+#: inc/custom-header.php:112
+msgid "Slider"
+msgstr "Carrusel"
+
+#: inc/custom-header.php:102
+msgid "Search Form on Header"
+msgstr "Formulario de búsqueda en la cabecera"
+
+#: inc/custom-header.php:90
+msgid "Show Icons on Footer"
+msgstr "Mostrar los iconos en el pie de página"
+
+#: inc/custom-header.php:78
+msgid "Show Icons on Header"
+msgstr "Mostrar los iconos en la cabecera"
+
+#: inc/custom-header.php:66
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/custom-header.php:62
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: inc/custom-header.php:56
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/custom-header.php:52
+msgid "Linkedin URL"
+msgstr "URL de LinkedIn"
+
+#: inc/custom-header.php:46
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/custom-header.php:42
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/custom-header.php:35
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/custom-header.php:31
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: inc/custom-header.php:26
+msgid "Social Icons / Header Search"
+msgstr "Iconos sociales / Búsqueda en la cabecera"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:24
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quieres probar una búsqueda?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: search.php:33
+msgid "We're Sorry, but no results found for your search. Please try again with some different keywords."
+msgstr "Lo siento, pero no se han encontrado resultados para tu búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: functions.php:123
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral."
+
+#: functions.php:121
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:82
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: single.php:61
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:60
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: single.php:58
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:57
+msgid "Next Post"
+msgstr "Entrada siguiente"
+
+#: single.php:45
+msgid "Page"
+msgstr "Página"
+
+#: searchform.php:8
+msgid "Search.."
+msgstr "Buscar..."
+
+#: template-parts/header/navigation-top.php:14 functions.php:81
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: template-parts/header/navigation-top.php:10
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#: template-parts/content/content-excerpt.php:15
+msgctxt "post"
+msgid "Featured"
+msgstr "Destacado"
+
+#: template-parts/content/content-fullwidth.php:20
+#: template-parts/content/content-leftsidebar.php:21
+#: template-parts/content/content-rightsidebar.php:20 single.php:41
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content/content-default.php:31
+msgid "Read More >"
+msgstr "Leer más >"
+
+#: template-parts/content/content-default.php:28
+msgid "By"
+msgstr "Por"
+
+#: template-parts/content/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content/content-none.php:13 search.php:32
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/sliders/slider.php:97
+msgid "Next"
+msgstr "Siguente"
+
+#: template-parts/sliders/slider.php:93
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-parts/sliders/slider.php:77
+msgid "Read More"
+msgstr "Leer más"
+
+#. Author URI of the theme
+msgid "www.linkedin.com/in/manishn19"
+msgstr "www.linkedin.com/in/manishn19"
+
+#. Author of the theme
+msgid "Manish Negi"
+msgstr "Manish Negi"

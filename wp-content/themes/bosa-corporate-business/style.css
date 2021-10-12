@@ -1,0 +1,201 @@
+/*!
+Theme Name: Bosa Corporate Business
+Theme URI: https://bosathemes.com/bosa-corporate-business
+Author: Bosa Themes
+Author URI: https://bosathemes.com
+Description: Bosa Corporate Business is multipurpose business theme. Bosa Corporate Business is beautiful, fast, lightweight, responsive, extremely customizable theme that you can use as a foundation to build versatile sites such as business, corporate, saas application website, architecture, interior design, agency, consulting, insurance, app landing page, it solutions, decoration, shop ecommerce, marketing, gym, blog, travel agency, construction,law firm, spa salons, industries, Beauty, furniture, home decor, photography, personal, portfolio and preferably ideal for any type of business websites. Bosa Corporate Business is a child theme of Bosa, a free multipurpose WordPress theme. Bosa Corporate Business works perfectly with Gutenberg and the most popular page builder Elementor that can easily drag-and-drop your ideas from the interface. Bosa Corporate Business is built with SEO, speed, and usability in mind with the multiple Header & Footer layouts, predesigned starter sites includes awesome Home & Inner Pages that is incredibly customizable and powerful enough to take a stand among the crowd. Bosa Corporate Business is compatible with all major plugins like WooCommerce, Yoast, Contact form 7, Mailchimp for WordPress, bbPress, etc. Looking for a Multipurpose Business theme? Look no further! Browse the demo to see that it's the only theme you will ever need: https://demo.bosathemes.com/bosa/business-02
+Version: 1.0.1
+Requires PHP: 5.5
+Tested up to: 5.8
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: bosa
+Text Domain: bosa-corporate-business
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Bosa Corporate Business WordPress Theme, Copyright 2021 Bosa Themes
+Bosa Corporate Business is distributed under the terms of the GNU General Public License v3
+
+Bosa Corporate Business is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+body {
+  color: #444444;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  color: #3a3a3a;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 600;
+}
+
+.wp-block-quote {
+  padding: 30px 30px 30px 50px;
+  margin: 30px 0 30px 30px;
+}
+
+.site-header .site-branding .site-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: none;
+}
+
+.main-navigation ul.menu > li > a {
+  font-family: 'Poppins', serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.section-banner .banner-content .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.section-banner .banner-content .entry-text p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8;
+  text-transform: initial;
+}
+
+.feature-posts-content-wrap .feature-posts-content .feature-posts-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.post .feature-posts-content .cat-links a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+#primary article .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.highlight-post-slider .post .entry-content .entry-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+}
+
+.highlight-post-slider .post .cat-links a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.sidebar .widget .widget-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.page-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 48px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.site-footer .site-info,
+.site-footer .footer-menu ul li a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px,
+  text-transform: none,
+  line-height: 1.6,
+}
+
+.comment-navigation .nav-previous a,
+.comment-navigation .nav-next a,
+.posts-navigation .nav-previous a,
+.posts-navigation .nav-next a,
+.post-navigation .nav-previous a,
+.post-navigation .nav-next a {
+    font-weight: 400;
+}
+
+#bosa-business02-contact-form .wpcf7 input[type="text"],
+#bosa-business02-contact-form .wpcf7 input[type="email"],
+#bosa-business02-contact-form .wpcf7 textarea {
+  background-color: rgba(222, 222, 222, 0.9);
+  margin: 15px 0;
+  border: none;
+}
+
+#bosa-business02-contact-form .wpcf7 input[type="submit"] {
+  background-color: #F3525A;
+  margin-top: 20px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+}
+
+#bosa-business02-contact-form .wpcf7 input[type="submit"]:hover,
+#bosa-business02-contact-form .wpcf7 input[type="submit"]:active,
+#bosa-business02-contact-form .wpcf7 input[type="submit"]:focus {
+  background-color: #BF1B23;
+}
+
+#bosa-business02-blog .sina-bp-cats:hover,
+#bosa-business02-blog .sina-bp-cats:active,
+#bosa-business02-blog .sina-bp-cats:focus {
+  background-color: #BF1B23;
+}
+
+#bosa-business02-contact-form2 .wpcf7 input[type="submit"] {
+  background-color: #F3525A;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+}
+
+#bosa-business02-contact-form2 .wpcf7 input[type="submit"]:hover {
+  background-color: #BF1B23;
+}

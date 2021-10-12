@@ -1,0 +1,388 @@
+# Translation of Themes - Podcast in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Podcast package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-21 11:44:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Podcast\n"
+
+#. Theme Name of the theme
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:56
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:47
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:54
+#: ilovewp-admin/ilovewp-theme-settings.php:160
+msgid "Podcast"
+msgstr "Podcast"
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:50
+msgid "Thank you for choosing Podcast Theme!"
+msgstr "¡Gracias por elegir el tema Podcast!"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:79
+msgid "Theme Details"
+msgstr "Detalles del tema"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:228
+msgid "Write a Review for Podcast"
+msgstr "Escribe una reseña de Podcast"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:104
+msgid "Go to Podcast Support Forum"
+msgstr "Ir al foro de soporte de Podcast"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:104
+msgid "View Podcast Documentation"
+msgstr "Ver la documentación de Podcast"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:224
+msgid "Leave a Review"
+msgstr "Deja una valoración"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:84
+msgid "ILoveWP.com Logo"
+msgstr "Logotipo de ILoveWP.com"
+
+#. translators: %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:64
+msgid "Get started with %s"
+msgstr "Primeros pasos con %s"
+
+#: customizer/customizer.php:239
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: customizer/customizer.php:231
+msgid "Official Theme Page"
+msgstr "Página oficial del tema"
+
+#: customizer/customizer.php:260
+msgid "Theme Help & Support"
+msgstr "Ayuda y soporte del tema"
+
+#: customizer/customizer.php:243
+msgid "Rate Podcast"
+msgstr "Valorar Podcast"
+
+#. translators: Theme name and version
+#: ilovewp-admin/ilovewp-theme-settings.php:75
+msgid "<span class=\"theme-name\">%1$s Lite Theme</span> <span class=\"theme-version\">(version %2$s)</span>"
+msgstr "<span class=\"theme-name\">%1$s Tema Lite</span> <span class=\"theme-version\">(version %2$s)</span>"
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr "Plantilla de constructor de páginas"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#: search.php:24
+msgid "Apologies, but the search query did not return any results."
+msgstr "Lo sentimos, pero la búsqueda no produjo ningún resultado."
+
+#: ilovewp-admin/sidebars.php:48
+msgid "Footer: Column 2"
+msgstr "Pie de página: Columna 2"
+
+#: ilovewp-admin/sidebars.php:39
+msgid "Footer: Column 1"
+msgstr "Pie de página: Columna 1"
+
+#: ilovewp-admin/sidebars.php:31
+msgid "We recommend adding a single [Text Widget]. The widget's title will be wrapped in a <h1></h1> tag."
+msgstr "Recomendamos añadir un solo [Widget de texto]. El título del widget será envuelto en una etiqueta <h1></h1>."
+
+#: ilovewp-admin/sidebars.php:29
+msgid "Homepage: Subscribe Bar"
+msgstr "Página de inicio: Barra de suscripción"
+
+#: ilovewp-admin/sidebars.php:21
+msgid "Recommended widgets: An image widget, social icons widget, subscribe banners, etc."
+msgstr "Widgets recomendados: Un widget de imagen, widget de iconos sociales, banners de suscripción, etc."
+
+#: ilovewp-admin/sidebars.php:19
+msgid "Homepage: Welcome Widgets (Right)"
+msgstr "Página de inicio: Widgets de bienvenida (derecha)"
+
+#: ilovewp-admin/sidebars.php:10
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: customizer/customizer.php:235
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: ilovewp-admin/ilovewp-theme-settings.php:49
+msgid "Podcast Theme"
+msgstr "Tema Podcast"
+
+#: ilovewp-admin/helper-functions.php:96
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ilovewp-admin/helper-functions.php:82
+msgid "Pages"
+msgstr "Páginas"
+
+#: functions.php:442
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#. translators: 1: date, 2: time
+#: functions.php:436
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: functions.php:418 functions.php:446
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:418
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:395
+msgid "Logo for "
+msgstr "Logo de "
+
+#. translators: page number
+#: functions.php:364
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:196
+msgctxt "The main label for the expandable mobile menu"
+msgid "Click for Menu"
+msgstr "Clic para menú"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "en"
+
+#: functions.php:133
+msgid "Featured Image: Thumbnail"
+msgstr "Imagen destacada: Miniatura"
+
+#: functions.php:132
+msgid "Featured Image: Page Thumbnail"
+msgstr "Imagen destacada: Miniatura de página"
+
+#: functions.php:131
+msgid "Featured Image: Slideshow Size"
+msgstr "Imagen destacada: Tamaño de la presentación"
+
+#: functions.php:119
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: footer.php:33
+msgid "Theme by"
+msgstr "Tema por"
+
+#: footer.php:32
+msgid "All Rights Reserved. "
+msgstr "Todos los derechos reservados. "
+
+#: footer.php:32
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: customizer/sections/general.php:128
+msgid "Featured Page #3"
+msgstr "Página destacada #3"
+
+#: customizer/sections/general.php:116
+msgid "Featured Page #2"
+msgstr "Página destacada #2"
+
+#. translators: link to pages
+#: customizer/sections/general.php:104
+msgid "This list is populated with <a href=\"%1$s\">Pages</a>."
+msgstr "Esta lista se rellena con <a href=\"%1$s\">Páginas</a>."
+
+#: customizer/sections/general.php:103
+msgid "Featured Page #1"
+msgstr "Página destacada #1"
+
+#: customizer/sections/general.php:92
+msgid "Display Featured Pages on Homepage"
+msgstr "Mostrar páginas destacadas en la página de inicio"
+
+#: customizer/sections/general.php:81
+msgid "Post Block Heading"
+msgstr "Encabezado del bloque de entrada"
+
+#: customizer/sections/general.php:78 template-parts/content-home-post.php:12
+msgid "Newest Episode"
+msgstr "Último episodio"
+
+#. translators: link to categories
+#: customizer/sections/general.php:69
+msgid "This list is populated with <a href=\"%1$s\">Categories</a>."
+msgstr "Esta lista se rellena con <a href=\"%1$s\">Categorías</a>."
+
+#: customizer/sections/general.php:68
+msgid "Category containing Episodes"
+msgstr "Categoría que contiene Episodios"
+
+#: customizer/sections/general.php:57
+msgid "Display Newest Episode Block on Homepage"
+msgstr "Mostrar el bloque de último episodio en la página de inicio"
+
+#: customizer/sections/general.php:45
+msgid "Default Sidebar Position"
+msgstr "Posición predeterminada de Barra lateral"
+
+#: customizer/sections/general.php:33
+msgid "Theme Color Palette"
+msgstr "Paleta de colores del tema"
+
+#: customizer/sections/general.php:23
+msgid "Theme Settings"
+msgstr "Ajustes de Tema"
+
+#: customizer/sections/general.php:19
+msgid "Teal"
+msgstr "Verdiazul"
+
+#: customizer/sections/general.php:18
+msgid "Red"
+msgstr "Rojo"
+
+#: customizer/sections/general.php:17
+msgid "Purple"
+msgstr "Púrpura"
+
+#: customizer/sections/general.php:16
+msgid "Orange"
+msgstr "Naranja"
+
+#: customizer/sections/general.php:15
+msgid "Green"
+msgstr "Verde"
+
+#: customizer/sections/general.php:14
+msgid "Blue"
+msgstr "Azul"
+
+#: customizer/sections/general.php:13
+msgid "Black"
+msgstr "Negro"
+
+#: customizer/sections/general.php:9
+msgid "Right"
+msgstr "Derecha"
+
+#: customizer/sections/general.php:8
+msgid "Left"
+msgstr "Izquierda"
+
+#: customizer/sections/footer.php:17
+msgid "Copyright Text"
+msgstr "Texto de Copyright"
+
+#: customizer/sections/background.php:14
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: customizer/sections/background.php:10
+msgid "Site Background"
+msgstr "Fondo del sitio"
+
+#: customizer/helpers.php:159 customizer/helpers.php:209
+msgid "None"
+msgstr "Ninguno"
+
+#. translators: This is the copyright notice that appears in the footer of the
+#. website.
+#: customizer/helpers-defaults.php:7
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: customizer/customizer.php:177
+msgid "General"
+msgstr "General"
+
+#: content-nocontent.php:11
+msgid "Thank you for installing Podcast Theme"
+msgstr "Gracias por instalar el tema Podcast"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Responder a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respuestas a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a &ldquo;%s&rdquo;"
+
+#: search.php:31 404.php:35
+msgid "Monthly Archives"
+msgstr "Archivos mensuales"
+
+#: search.php:26 404.php:28
+msgid "Browse Categories"
+msgstr "Navegar por las categorías"
+
+#: 404.php:19
+msgid "Apologies, but the requested page cannot be found. Perhaps searching will help find a related page."
+msgstr "Lo sentimos, pero no se puede encontrar la página solicitada. Tal vez la búsqueda te ayude a encontrar una página relacionada."
+
+#: 404.php:17
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: customizer/sections/footer.php:8 customizer/customizer.php:178
+msgid "Footer"
+msgstr "Pie de página"
+
+#: search.php:17
+msgid "Search Results for"
+msgstr "Resultados de la búsqueda de"
+
+#: index.php:70
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#. Author URI of the theme
+msgid "https://www.ilovewp.com/"
+msgstr "https://www.ilovewp.com/"
+
+#. Author of the theme
+msgid "ilovewpcom"
+msgstr "ilovewpcom"
+
+#. Theme URI of the theme
+msgid "https://www.ilovewp.com/themes/podcast/"
+msgstr "https://www.ilovewp.com/themes/podcast/"

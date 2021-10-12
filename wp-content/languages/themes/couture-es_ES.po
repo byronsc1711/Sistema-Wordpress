@@ -1,0 +1,216 @@
+# Translation of Themes - Couture in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Couture package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-11 17:02:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Couture\n"
+
+#. Description of the theme
+msgid "Couture is simple, modern, responsive WordPress theme built for bloggers, photographer, designer, illustrators, portfolios and curator of all things digital. Build beautiful portfolio sites for your projects or freelance website, simple 1 minute installation. You want more? check out the pro version for a dedicated WordPress portfolio plugin and  tech support."
+msgstr "Couture es un tema de WordPress simple, moderno y adaptable construido para bloggers, fotógrafos, diseñadores, ilustradores, porfolios y curadores de contenidos digitales. Construye hermosos sitios para tus proyectos o tu sitio web freelance, con una instalación simple de 1 minuto. ¿Quieres más? Échale un vistazo a la versión pro que incluye un plugin dedicado de porfolio y soporte técnico."
+
+#. Theme Name of the theme
+msgid "Couture"
+msgstr "Couture"
+
+#: pt-pro/class-customize.php:77
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: pt-pro/class-customize.php:76
+msgid "Couture PRO Addon"
+msgstr "Extensión Couture PRO"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que lo que buscas no está disponible. Puede que la búsqueda te ayude."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no hay nada que corresponda con tus criterios de búsqueda. Inténtalo de nuevo con otras palabras diferentes."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Sin resultados"
+
+#: template-parts/content-page.php:22 template-parts/content-full.php:47
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-full.php:42
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados para: %s"
+
+#: inc/template-tags.php:115
+msgid "View all posts in %s"
+msgstr "Ver todas las publicaciones en %s"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:34 inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/couture-include-kirki.php:61
+msgid "Activate Now"
+msgstr "Activar Ahora"
+
+#: inc/couture-include-kirki.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr "Activar Kirki Toolkit"
+
+#: inc/couture-include-kirki.php:59
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Has instalado a Kirki. Actívalo para aprovechar las características de este tema en el personalizador."
+
+#: inc/couture-include-kirki.php:56
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: inc/couture-include-kirki.php:55
+msgid "Install Kirki Toolkit now"
+msgstr "Instalar Kirki Toolkit"
+
+#: inc/couture-include-kirki.php:54
+msgid "Please Install Kirki so that you can use this theme's features & customizations."
+msgstr "Por favor, instala Kirki para poder utilizar las características y personalizaciones de este tema."
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:106
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:29
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Respuestas a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una Respuesta a &ldquo;%s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prueba a buscar en los archivos mensuales. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: functions.php:50
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:146
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:142
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Theme URI of the theme
+msgid "https://thepixeltribe.com/downloads/wordpress-couture-theme-for-photographers-designers-illustrators/"
+msgstr "https://thepixeltribe.com/downloads/wordpress-couture-theme-for-photographers-designers-illustrators/"
+
+#. Author URI of the theme
+msgid "https://thepixeltribe.com"
+msgstr "https://thepixeltribe.com"

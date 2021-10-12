@@ -1,0 +1,76 @@
+/*
+Theme Name: Signify Music Dark
+Description: Used to style Gutenberg Blocks in the editor.
+*/
+
+/* Editor Font Size */
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6 {
+	font-family: "Poppins", sans-serif;
+}
+
+.editor-post-title__block .editor-post-title__input {
+	color: #fff;
+	font-family: "Poppins", sans-serif;
+}
+
+/* Link styles */
+
+.edit-post-visual-editor a,
+.editor-block-list__block a,
+.wp-block-freeform.block-library-rich-text__tinymce a {
+	color: #999999;
+}
+
+.editor-styles-wrapper .wp-block-pullquote.is-style-solid-color blockquote {
+	background-color: #111;
+}
+
+/* Buttons */
+
+.wp-block-button .wp-block-button__link {
+	background-color: #db4f3d;
+	color: #ffffff;
+    border: 1px solid #db4f3d;
+}
+
+.is-style-outline .wp-block-button__link,
+.is-style-outline .more-link,
+.is-style-outline .button {
+	border: 1px dashed #f5808c;
+	background-color: transparent;
+	color: #fff;
+}
+
+.is-style-fill.wp-block-button .wp-block-button__link,
+.is-style-fill.wp-block-button .more-link,
+.is-style-fill.wp-block-button .button {
+	background-color: #f5808c;
+	color: #fff;
+}
+
+.is-style-fill.wp-block-button .wp-block-button__link:hover,
+.is-style-fill.wp-block-button .wp-block-button__link:focus,
+.is-style-fill.wp-block-button .more-link:hover,
+.is-style-fill.wp-block-button .more-link:focus,
+.is-style-fill.wp-block-button .button:hover,
+.is-style-fill.wp-block-button .button:focus,
+.is-style-outline .wp-block-button__link:hover,
+.is-style-outline .wp-block-button__link:focus {
+	background-color: #fff;
+	border-color: #e6e6e6;
+	color: #000;
+}
+
+.wp-block-button .wp-block-button__link:hover,
+.wp-block-button .wp-block-button__link:focus,
+.is-style-outline .wp-block-button__link:hover,
+.is-style-outline .wp-block-button__link:focus {
+	background-color: #fff;
+	color: #000;
+}

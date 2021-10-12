@@ -1,0 +1,32 @@
+# Translation of Themes - One Page Site in Spanish (Spain)
+# This file is distributed under the same license as the Themes - One Page Site package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-05 23:00:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - One Page Site\n"
+
+#. Description of the theme
+msgid "Onepagesite is a child theme of novellite theme, it is loaded with total customization option."
+msgstr "Onepagesite es un tema hijo del tema novellite y está lleno de opciones de personalización total."
+
+#. Theme Name of the theme
+msgid "One Page Site"
+msgstr "One Page Site"
+
+#. Author URI of the theme
+msgid "http://www.themehunk.com/"
+msgstr "http://www.themehunk.com/"
+
+#. Author of the theme
+msgid "ThemeHunk Team"
+msgstr "ThemeHunk Team"
+
+#. Theme URI of the theme
+msgid "http://www.themehunk.com/product/one-page-site/"
+msgstr "http://www.themehunk.com/product/one-page-site/"

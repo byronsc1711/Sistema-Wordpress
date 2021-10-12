@@ -1,0 +1,45 @@
+/*
+Theme Name: Perfect Magazine
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+@media (min-width: 768px) {
+    .row [class*="col-sm"],
+    .row [class*="col-md"],
+    .row [class*="col-lg"],
+    .social-icons ul li {
+        float: right;
+    }
+
+    .row-table [class*="col-sm"],
+    .row-table [class*="col-md"],
+    .row-table [class*="col-lg"] {
+        float: none;
+    }
+}
+
+.top-bar .icon-search .search-form input[type="submit"],
+.top-bar .icon-search .search-form:before {
+    left: 0;
+    right: inherit;
+}
+
+body.archive.no-sidebar #main article {
+    float: right;
+}
+
+body.archive.no-sidebar #main article:nth-child(2n+1) {
+    clear: right;
+}
+
+@media only screen and (min-width: 1200px){
+    .single .entry-content:before, .page .entry-content:before {
+        left: inherit;
+        right: -0.45818em;
+    }
+}

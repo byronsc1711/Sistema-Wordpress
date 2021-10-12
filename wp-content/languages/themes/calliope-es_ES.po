@@ -1,0 +1,120 @@
+# Translation of Themes - Calliope in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Calliope package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-24 14:35:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Calliope\n"
+
+#. Description of the theme
+msgid "Calliope is a beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. Calliope offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. Calliope is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/calliope-demos"
+msgstr "Calliope es un tema multipropósito bonito y extremadamente personalizable que se puede utilizar para crear un sitio web fantástico con arrastrar y soltar elementos. Viene con una página de inicio prediseñada, 5 diseños de cabecera y más de 35 bloques de contenido listos para usar que puedas personalizarlo fácilmente. También puedes diseñar tus propios bloques personalizados combinando más de 25 componentes de arrastrar y soltar. Calliope tiene un montón de opciones de personalización (fondo de video, fondo de presentación de diapositivas, tipos de contenido de encabezado, etc.) que te ayudarán a crear un sitio web que destaque en poco tiempo. También es adaptable por lo que funciona en dispositivos móviles sin tener que hacer nada. ¡Calliope es el único tema que necesitarás! MIRA LAS DEMOS: https://colibriwp.com/go/calliope-demos"
+
+#. Theme Name of the theme
+msgid "Calliope"
+msgstr "Calliope"
+
+#: template-parts/main/404.php:22
+msgid "Go to the homepage!"
+msgstr "¡Ve a la página de inicio!"
+
+#: admin/admin-notice.php:70
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Esta acción también instalará el plugin «Colibri Page Builder»."
+
+#: admin/admin-notice.php:58
+msgid "Maybe Later"
+msgstr "Quizá más tarde"
+
+#: admin/admin-notice.php:54
+msgid "Install the Calliope homepage"
+msgstr "Instalar la página de inicio de Calliope"
+
+#: admin/admin-notice.php:49
+msgid "Would you like to install the pre-designed Calliope homepage?"
+msgstr "¿Quieres instalar la página de inicio prediseñada de Calliope?"
+
+#: functions.php:60
+msgid "%s is easy to learn and master, but you can always check out our documentation to learn about some features you might have missed."
+msgstr "%s es fácil de aprender y dominar, pero siempre puedes consultar nuestra documentación para descubrir características que puedas haber pasado por alto."
+
+#: functions.php:51
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "El plugin %1$s añade, entre otras, la funcionalidad de arrastrar y soltar elementos al tema %2$s."
+
+#: functions.php:49
+msgid "%s Settings"
+msgstr "Ajustes de %s"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "Volver"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "Siguiente"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "next post"
+msgstr "siguiente entrada"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Siguiente entrada:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "previous post"
+msgstr "entrada anterior"
+
+#: template-parts/main/404.php:13
+msgid "Sorry, page not found!"
+msgstr "Lo siento, ¡página no encontrada!"
+
+#: template-parts/main/post.php:33
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} respuestas"
+
+#: template-parts/main/post.php:32
+msgid "One response"
+msgstr "Una respuesta"
+
+#: template-parts/main/post.php:31
+msgid "No responses yet"
+msgstr "Aún no hay respuestas"
+
+#: template-parts/main/archive_item_template.php:72
+#: template-parts/main/search_item_template.php:57
+msgid "read more"
+msgstr "leer más"
+
+#: template-parts/layout-wrapper-content/categories-container-1.php:20
+#: template-parts/main/archive_item_template.php:44
+#: template-parts/main/search_item_template.php:29
+msgid "-"
+msgstr "-"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"

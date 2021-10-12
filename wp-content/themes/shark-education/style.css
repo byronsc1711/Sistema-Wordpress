@@ -1,0 +1,277 @@
+/**
+Theme Name: Shark Education
+Author: Shark Themes
+Author URI: http://sharkthemes.com/
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.4.1
+Template: uni-education
+Text Domain: shark-education
+Description: Shark Education is a clean and elegant dark - purple yellow schemed child theme of Uni Education. Theme Demo: http://demo.sharkthemes.com/shark-education/
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: translation-ready, custom-background, custom-header, theme-options, custom-menu, threaded-comments, featured-images, featured-image-header, footer-widgets, right-sidebar, full-width-template, two-columns, three-columns, grid-layout, custom-logo, blog, portfolio, education
+
+Shark Education WordPress Theme, Copyright 2018 Shark Themes
+Shark Education is distributed under the terms of the GNU GPL
+
+Shark Education WordPress Theme is child theme of Uni Education WordPress Theme, Copyright 2018 Shark Themes
+Uni Education WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+a,
+.our-services article.hentry .fa,
+.cta-section .read-more:hover a,
+.loader-container svg, 
+.blog-loader svg,
+.widget .tagcloud a:hover,
+.entry-meta > span a:hover, 
+.entry-meta > span a:focus,
+span.cat-links a:hover, 
+span.cat-links a:focus, 
+span.posted-on a:hover, 
+span.posted-on time:hover, 
+span.posted-on a:focus, 
+span.posted-on time:focus,
+.contact_widget .contact-details svg,
+ul.trail-items li a:hover,
+.hero_content_widget .read-more:hover a,
+a.more-btn svg,
+.our-services article.hentry .fa,
+span.tags-links a:hover, span.tags-links a:focus, 
+.single-post .entry-meta span.tags-links a:hover, 
+.single-post .entry-meta span.tags-links a:focus
+{
+	color: #121921;
+	fill: #121921;
+
+}
+a.more-btn:hover,
+.navigation.pagination svg,
+.pagination a.page-numbers:hover svg, 
+.pagination a.page-numbers:focus svg,
+.post-navigation a:hover svg, 
+.posts-navigation a:hover svg,
+a.more-btn:hover svg,
+.testimonial-slider article .social-icons li a svg
+{
+	fill: #555;
+	color: #555;
+}
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus,
+#secondary .widget-title, 
+#secondary .widgettitle,
+.short-cta-section .wrapper .read-more:hover a,
+.team-section .position,
+.testimonial-slider article .position,
+article .entry-title a:hover,
+a:hover, 
+a:focus, 
+a:active
+{
+	color: #555;
+}
+#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li > a, 
+.counter-widget .section-title,
+.counter .counter-value,
+.counter h5.counter-label,
+.secondary-menu ul li svg,
+.custom-header-content h2 a,
+.main-navigation ul.sub-menu li:hover > a, 
+.main-navigation ul.sub-menu li:focus > a,
+.main-navigation ul.sub-menu li a,
+.secondary-menu,
+.secondary-menu a,
+#colophon .entry-content, 
+.footer-widgets-area .widget, 
+.footer-widgets-area a, 
+.footer-widgets-area p,
+#colophon .widget_latest_post .entry-meta, 
+#colophon .widget_latest_post .post-content .entry-meta > span.posted-on,
+#colophon article .entry-title a, 
+#colophon .widget_recent_entries span.post-date,
+.main-navigation ul.sub-menu li.menu-item-has-children a svg,
+#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li:hover > a svg,
+#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li.menu-item-has-children a svg,
+.site-info a:hover,
+.site-title a
+{
+	color: #fff;
+	fill: #fff;
+}
+
+/* Background */
+.team-section .team-image .overlay,
+.cta-section .overlay,
+.portfolio_widget .gallery .featured-image .overlay
+{
+	background: rgba(0,0,0,0.8);
+}
+.counter-widget .overlay
+{
+	background: rgba(0,0,0,0.2);
+}
+#search.search-open
+{
+	border-color: #e8ae00;
+}
+.backtotop,
+.slick-prev:hover, 
+.slick-next:hover, 
+.slick-prev:focus, 
+.slick-next:focus,
+.read-more,
+.custom-header-content-wrapper.slide-item .custom-header-content .read-more,
+.hero_content_widget .read-more 
+{
+	border-color: #e8ae00;
+	background-color: #e8ae00; 
+}
+#masthead.site-header.sticky-header.nav-shrink,
+.portfolio_widget .gallery .featured-image .overlay .read-more:hover,
+#top-menu,
+.pagination .page-numbers.current,
+.reply a,
+.custom-header-content .separator,
+.read-more:hover,
+.testimonial-slider .slick-prev, 
+.testimonial-slider .slick-next,
+.menu-toggle,
+.main-navigation ul.sub-menu,
+input[type="submit"],
+form.search-form button.search-submit,
+.widget_search form.search-form button.search-submit
+{
+	background-color: #121921;
+}
+.custom-header-content-wrapper.slide-item .custom-header-content .read-more:hover,
+.separator,
+.team-section article .entry-header .separator,
+.backtotop:hover,
+#respond input[type="submit"]:hover, 
+#respond input[type="submit"]:focus
+{
+	background-color: #555;
+}
+.cta-section
+{
+	background-color: #e8ae00;
+}
+.counter_widget .section-header .separator,
+.counter .separator {
+	background-color: #fff;
+}
+#colophon,
+.site-info
+{
+	background-color: #121921;
+}
+.slick-prev, .slick-next
+{
+	background-color: rgba( 0,0,0,0.1 );
+}
+.inner-header-image .overlay, 
+.custom-header-content-wrapper .overlay
+{
+	background-color: rgba(57,39,121,0.8);
+}
+#masthead
+{
+	background: none;
+	box-shadow: none;
+}
+/* Border */
+
+.short-cta-section .wrapper .read-more
+{
+	border-color: #fff;
+}
+.short-cta-section .wrapper .read-more:hover
+{
+	border-color: #fff;
+	background: #fff;
+}
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus,
+.custom-header-content-wrapper.slide-item .custom-header-content .read-more:hover,
+.our-services article.hentry .fa,
+.post-navigation, 
+.posts-navigation, 
+.post-navigation, 
+.posts-navigation,
+#respond input[type="submit"]:hover, 
+#respond input[type="submit"]:focus
+{
+	border-color: #555;
+}
+.portfolio_widget .gallery,
+.portfolio_widget .gallery .featured-image .overlay .read-more:hover,
+span.tags-links a:hover, span.tags-links a:focus, 
+.single-post .entry-meta span.tags-links a:hover, 
+.single-post .entry-meta span.tags-links a:focus,
+#secondary .widget-title, 
+#secondary .widgettitle,
+.site-footer .widget-title,
+a:hover, 
+a:focus, 
+a:active,
+.widget .tagcloud a:hover,
+#respond input[type="submit"]
+{
+	border-color: #121921;
+}
+
+/* Responsive */
+
+@media screen and (min-width: 1024px) {
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li:hover > a,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li:focus > a,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li.menu-item-has-children:hover > a svg,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation ul.sub-menu li.menu-item-has-children:focus > a svg
+	{
+		color: #fff;
+		fill: #fff;
+	}
+	.main-navigation ul.nav-menu > li.button a
+	{
+		background-color: #e8ae00; 
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.main-navigation,
+	.main-navigation ul.nav-menu,
+	.main-navigation ul.sub-menu
+	{
+	    background-color: #121921;
+	}
+	.main-navigation a,
+	.main-navigation a:hover,
+	.main-navigation ul.menu li.current-menu-item > a,
+	.main-navigation ul.menu li.current-menu-item > a,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation a,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation a:hover,
+	#masthead.site-header.sticky-header.nav-shrink .main-navigation ul li.menu-item-has-children svg
+	{
+		color: #fff;
+		fill: #fff;
+	}
+	#masthead.site-header.sticky-header.nav-shrink .site-title a, 
+	.site-title a, 
+	#masthead.site-header.sticky-header .site-title a
+	{
+		color: #121921;
+	}
+	#masthead.site-header.sticky-header.nav-shrink {
+		background-color: #fff; 
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.main-navigation ul.sub-menu li:hover > a, 
+	.main-navigation ul.sub-menu li:focus > a 
+	{
+	    background-color: #121921;
+	}
+}

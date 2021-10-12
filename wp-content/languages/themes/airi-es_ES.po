@@ -1,0 +1,1940 @@
+# Translation of Themes - Airi in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Airi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-07 22:36:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Airi\n"
+
+#. Description of the theme
+msgid "Airi is a powerful yet lightweight and flexible theme for any organization or freelancer. With the Elementor integration, you can create a great-looking website with all necessary functionalities, without any hassle. Thanks to a wealth of customization options, you easily create a site for your business that fits your style and needs. Start from scratch, or go for one of the pre-made Elementor layouts. Looking for a theme that suits your e-commerce business? Look no further: Airi offers full WooCommerce support, so you can easily sell your products. Happy building!"
+msgstr "Airi es un tema potente pero ligero y flexible para cualquier organización o autónomo. Con la integración de Elementor, puedes crear un sitio web de gran apariencia con todas las funcionalidades necesarias, sin ninguna molestia. Gracias a la gran cantidad de opciones de personalización, podrás crear fácilmente un sitio para tu negocio que se ajuste a tu estilo y necesidades. Empieza desde cero o elige uno de los diseños prefabricados de Elementor. ¿Buscas un tema que se adapte a tu negocio de comercio electrónico? No busques más: Airi ofrece soporte completo para WooCommerce, para que puedas vender tus productos fácilmente. ¡Feliz construcción!"
+
+#. Theme Name of the theme
+#: inc/onboarding/theme-info.php:144 inc/theme-dashboard-settings.php:40
+msgid "Airi"
+msgstr "Airi"
+
+#: theme-dashboard/class-theme-dashboard.php:734
+msgid "See the Changelog"
+msgstr "Ver historial de cambios"
+
+#: theme-dashboard/class-theme-dashboard.php:731
+msgid "Keep informed with the latest changes about each theme."
+msgstr "Mantente informado con los últimos cambios sobre cada tema."
+
+#: theme-dashboard/class-theme-dashboard.php:717
+msgid "Suggest an Idea"
+msgstr "Sugiere una idea"
+
+#: theme-dashboard/class-theme-dashboard.php:714
+msgid "Let us know. We process all suggestions to make the theme perfect."
+msgstr "Háznosla saber. Procesamos todas las sugerencias para que el tema sea perfecto."
+
+#: theme-dashboard/class-theme-dashboard.php:712
+msgid "Have an idea how to improve?"
+msgstr "¿Tienes una idea sobre cómo mejorarlo?"
+
+#: theme-dashboard/class-theme-dashboard.php:706
+msgid "Submit a Review"
+msgstr "Enviar una reseña"
+
+#: theme-dashboard/class-theme-dashboard.php:697
+msgid "Review"
+msgstr "Reseña"
+
+#: theme-dashboard/class-theme-dashboard.php:667
+msgid "Join Now"
+msgstr "Únete ahora"
+
+#: theme-dashboard/class-theme-dashboard.php:663
+msgid "Discuss products and ask for community support or help the community."
+msgstr "Habla sobre los productos, pide soporte o ayuda a la comunidad."
+
+#: theme-dashboard/class-theme-dashboard.php:660
+msgid "Join our Facebook community"
+msgstr "Únete a nuestra comunidad en Facebook"
+
+#: theme-dashboard/class-theme-dashboard.php:656
+msgid "Community"
+msgstr "Comunidad"
+
+#: theme-dashboard/class-theme-dashboard.php:646
+msgid "Go PRO"
+msgstr "Hazte Pro"
+
+#: theme-dashboard/class-theme-dashboard.php:642
+msgid "Want your questions answered faster? Go Pro to be first in the queue!"
+msgstr "¿Quieres que tus preguntas sean respondidas más rápido? ¡Hazte Pro para ser el primero en la cola!"
+
+#: theme-dashboard/class-theme-dashboard.php:639
+msgid "pro"
+msgstr "pro"
+
+#: theme-dashboard/class-theme-dashboard.php:637
+msgid "Priority Support"
+msgstr "Soporte prioritario"
+
+#: theme-dashboard/class-theme-dashboard.php:629
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: theme-dashboard/class-theme-dashboard.php:625
+msgid "Have a question? Hit a bug? Get the help you need, when you need it from our friendly support staff."
+msgstr "¿Tienes alguna pregunta? ¿Has encontrado un bug? Consigue la ayuda que necesites, cuando la necesites, de nuestro amable personal de soporte."
+
+#: theme-dashboard/class-theme-dashboard.php:622
+msgid "Need help? We're here for you!"
+msgstr "¿Necesitas ayuda? ¡Estamos aquí para ti!"
+
+#: theme-dashboard/class-theme-dashboard.php:616
+msgid "Priority Status"
+msgstr "Estado de prioridad"
+
+#: theme-dashboard/class-theme-dashboard.php:513
+msgid "Clicking “Starter Sites” button will install and activate the demo importer plugin."
+msgstr "Al hacer clic en el botón \"Sitios de inicio\" se instalará y activará el plugin de importación de la demo."
+
+#: theme-dashboard/class-theme-dashboard.php:501
+msgid "Starter Sites"
+msgstr "Sitios de inicio"
+
+#: theme-dashboard/class-theme-dashboard.php:463
+msgid "👋🏻"
+msgstr "👋🏻"
+
+#: theme-dashboard/class-theme-dashboard.php:455
+msgid "Hello, "
+msgstr "Hola, "
+
+#: theme-dashboard/class-theme-dashboard.php:429
+msgid "A slow host can really put a drag on your site’s performance, even an optimized one. Make sure you get a host that won’t hold you back by reading our review, complete with real speed tests, of the fastest WordPress hosts. "
+msgstr "Un hospedaje lento puede frenar el rendimiento de tu sitio, por muy optimizado que esté. Asegúrate de conseguir un hospedaje que no te frene leyendo nuestra reseña, con pruebas de velocidad real, de los hospedajes más rápidos para WordPress. "
+
+#: theme-dashboard/class-theme-dashboard.php:425
+msgid "Fastest WordPress Hosts"
+msgstr "Hospedajes para WordPress más rápidos"
+
+#: theme-dashboard/class-theme-dashboard.php:409
+msgid "Every site that is serious about speed (and should be pretty much all sites these days) needs a caching plugin and WP Rocket is our pick of the bunch. Get the lowdown on why we recommend it n our data-backed review: "
+msgstr "Todo sitio que se tome en serio la velocidad (y debería ser casi todos los sitios en estos días) necesita un plugin de caché y WP Rocket es nuestro favorito. Entérate de por qué lo recomendamos en nuestra reseña: "
+
+#: theme-dashboard/class-theme-dashboard.php:405
+msgid "WP Rocket Review"
+msgstr "Reseña de WP Rocket"
+
+#: theme-dashboard/class-theme-dashboard.php:389
+msgid "We run through the top 10 WordPress performance plugins to keep your site running fast. Goes beyond just caching plugins (though those are on there too!). A must-read for all WordPress site owners."
+msgstr "Revisamos los 10 mejores plugins de rendimiento de WordPress para que tu sitio funcione rápido. Va más allá de los plugins de caché (¡aunque esos también están ahí!). Una lectura obligada para todos los propietarios de sitios WordPress."
+
+#: theme-dashboard/class-theme-dashboard.php:385
+msgid "Best WordPress Speed Optimization Plugins"
+msgstr "Los mejores plugins de optimización de la velocidad para WordPress"
+
+#: theme-dashboard/class-theme-dashboard.php:360
+msgid "Customize"
+msgstr "Personalizar"
+
+#: theme-dashboard/class-theme-dashboard.php:297
+msgid "Failed to initialize or activate importer plugin."
+msgstr "Error al iniciar o activar el plugin de importación."
+
+#: theme-dashboard/class-theme-dashboard.php:278
+msgid "Insufficient permissions to install the plugin."
+msgstr "Permisos insuficientes para instalar el plugin."
+
+#: theme-dashboard/class-theme-dashboard.php:123
+msgid "Something went wrong, contact support."
+msgstr "Algo salió mal, contacta con soporte."
+
+#: theme-dashboard/class-theme-dashboard.php:109
+#: theme-dashboard/class-theme-dashboard.php:506
+#: theme-dashboard/class-theme-dashboard.php:557
+msgid "Theme Dashboard"
+msgstr "Escritorio del tema"
+
+#: inc/notices/class-airi-review.php:67
+msgid "I already did"
+msgstr "Ya lo hice"
+
+#: inc/notices/class-airi-review.php:65
+msgid "Maybe later"
+msgstr "Quizás más tarde"
+
+#: inc/notices/class-airi-review.php:63
+msgid "Sure"
+msgstr "Por supuesto"
+
+#. Translators: %1$s current user display name.
+#: inc/notices/class-airi-review.php:54
+msgid "Hey, %1$s! You've been using Airi for more than two weeks now and we hope you're happy with it. If you have a few minutes, we would love to get a 5 star review from you."
+msgstr "¡Hola, %1$s! Llevas más de dos semanas usando Airi y esperamos que estés contento con él. Si tienes unos minutos, nos encantaría que nos dieras una reseña de 5 estrellas."
+
+#: inc/theme-dashboard-settings.php:238
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/theme-dashboard-settings.php:228
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: inc/theme-dashboard-settings.php:222
+msgid "Free vs PRO"
+msgstr "Gratuito vs PRO"
+
+#: inc/theme-dashboard-settings.php:215
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/theme-dashboard-settings.php:210
+msgid "Blog Options"
+msgstr "Opciones del blog"
+
+#: inc/theme-dashboard-settings.php:205
+msgid "Font Options"
+msgstr "Opciones de fuentes"
+
+#: inc/theme-dashboard-settings.php:200
+msgid "Color Options"
+msgstr "Opciones de color"
+
+#: inc/theme-dashboard-settings.php:195
+msgid "Header Options"
+msgstr "Opciones de cabecera"
+
+#: inc/theme-dashboard-settings.php:190
+msgid "Change Site Title or Logo"
+msgstr "Cambiar el título o el logotipo del sitio"
+
+#: inc/theme-dashboard-settings.php:185
+msgid "Theme Features"
+msgstr "Características del tema"
+
+#: inc/theme-dashboard-settings.php:174
+msgid "Airi is now installed and ready to use. Click on Starter Sites to get off to a flying start with one of our pre-made templates, or go to Theme Dashboard to get an overview of everything."
+msgstr "Airi ya está instalado y listo para usar. Haz clic en Sitios de Inicio para empezar a trabajar con una de nuestras plantillas prefabricadas, o ve al Escritorio del tema para tener una visión general de todo."
+
+#: inc/theme-dashboard-settings.php:152
+msgid "Get Airi Pro Today"
+msgstr "Obtén Airi Pro hoy mismo"
+
+#: inc/theme-dashboard-settings.php:34
+msgid "Here is the list of differences between Airi and Airi Pro:"
+msgstr "Esta es la lista de diferencias entre Airi y Airi Pro:"
+
+#: inc/theme-dashboard-settings.php:33
+msgid "Differences between Airi and Airi Pro"
+msgstr "Diferencias entre Airi y Airi Pro"
+
+#: inc/wpml/class-airi-wpml-hero-slider.php:39
+msgid "[aThemes Slider] Link URL"
+msgstr "[Carrusel de aThemes] URL del enlace"
+
+#: inc/wpml/class-airi-wpml-hero-slider.php:36
+msgid "[aThemes Slider] Link text"
+msgstr "[Carrusel de aThemes] Texto del enlace"
+
+#: inc/wpml/class-airi-wpml-hero-slider.php:33
+msgid "[aThemes Slider] Slide text"
+msgstr "[Carrusel de aThemes] Texto de la diapositiva"
+
+#: inc/wpml/class-airi-wpml-hero-slider.php:30
+msgid "[aThemes Slider] Slide title"
+msgstr "[Carrusel de aThemes] Título de la diapositiva"
+
+#: inc/wpml/class-airi-wpml-portfolio.php:37
+msgid "[aThemes Portfolio] Link"
+msgstr "[Porfolio de aThemes] Enlace"
+
+#: inc/wpml/class-airi-wpml-portfolio.php:34
+msgid "[aThemes Portfolio] Term"
+msgstr "[Porfolio de aThemes] Término"
+
+#: inc/wpml/class-airi-wpml-portfolio.php:31
+msgid "[aThemes Portfolio] Title"
+msgstr "[Porfolio de aThemes] Título"
+
+#: inc/wpml/class-airi-wpml.php:87
+msgid "[aThemes: Shop category grid] Box 5 link"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Enlace de la caja 5"
+
+#: inc/wpml/class-airi-wpml.php:82
+msgid "[aThemes: Shop category grid] Box 5 title"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Título de la caja 5"
+
+#: inc/wpml/class-airi-wpml.php:77
+msgid "[aThemes: Shop category grid] Box 4 link"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Enlace de la caja 4"
+
+#: inc/wpml/class-airi-wpml.php:72
+msgid "[aThemes: Shop category grid] Box 4 title"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Título de la caja 4"
+
+#: inc/wpml/class-airi-wpml.php:67
+msgid "[aThemes: Shop category grid] Box 3 link"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Enlace de la caja 3"
+
+#: inc/wpml/class-airi-wpml.php:62
+msgid "[aThemes: Shop category grid] Box 3 title"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Título de la caja 3"
+
+#: inc/wpml/class-airi-wpml.php:57
+msgid "[aThemes: Shop category grid] Box 2 link"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Enlace de la caja 2"
+
+#: inc/wpml/class-airi-wpml.php:52
+msgid "[aThemes: Shop category grid] Box 2 title"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Título de la caja 2"
+
+#: inc/wpml/class-airi-wpml.php:47
+msgid "[aThemes: Shop category grid] Box 1 link"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Enlace de la caja 1"
+
+#: inc/wpml/class-airi-wpml.php:42
+msgid "[aThemes: Shop category grid] Box 1 title"
+msgstr "[aThemes: Cuadrícula de categorías de la tienda] Título de la caja 1"
+
+#: inc/wpml/class-airi-wpml.php:24
+msgid "[aThemes Portfolio] Show all text"
+msgstr "[Porfolio de aThemes] Mostrar todo el texto"
+
+#: inc/onboarding/theme-info.php:271 inc/theme-dashboard-settings.php:240
+msgid "Discover Airi Pro"
+msgstr "Descubre Airi Pro"
+
+#: inc/onboarding/theme-info.php:270 inc/theme-dashboard-settings.php:239
+msgid "Take Airi to a whole other level by upgrading to the Pro version."
+msgstr "Lleva a Airi a otro nivel actualizando a la versión Pro."
+
+#: inc/onboarding/theme-info.php:264
+msgid "Keep informed about each theme update."
+msgstr "Mantente informado sobre cada actualización del tema."
+
+#: inc/onboarding/theme-info.php:259
+msgid "Submit a review here"
+msgstr "Envía una valoración aquí"
+
+#: theme-dashboard/class-theme-dashboard.php:702
+#: inc/onboarding/theme-info.php:258
+msgid "It makes us happy to hear from our users. We would appreciate a review."
+msgstr "Nos alegra escuchar a nuestros usuarios. Apreciaríamos una reseña."
+
+#: inc/onboarding/theme-info.php:250
+msgid "View Airi Pro"
+msgstr "Ver Airi Pro"
+
+#: inc/onboarding/theme-info.php:116
+msgid "Font options"
+msgstr "Opciones de la fuente"
+
+#: inc/onboarding/theme-info.php:114
+msgid "Header options"
+msgstr "Opciones de la cabecera"
+
+#: inc/onboarding/theme-info.php:113
+msgid "Change your site title or add a logo"
+msgstr "Cambia el título de tu sitio o añade un logotipo"
+
+#: inc/onboarding/theme-info.php:112
+msgid "Theme elements can be styled from the Customizer. Use the links below to go straight to the section you want."
+msgstr "Los elementos del tema pueden ser diseñados desde el personalizador. Usa los siguientes enlaces para ir directamente a la sección que quieras."
+
+#: inc/onboarding/theme-info.php:111
+msgid "Styling with the Customizer"
+msgstr "Diseñar con el personalizador"
+
+#: inc/onboarding/theme-info.php:105
+msgid "All recommended plugins need to be installed and activated for this step."
+msgstr "Para este paso, tienen que ser instalados y activados todos los plugins recomendados."
+
+#: inc/onboarding/theme-info.php:103
+msgid "Go to the automatic importer"
+msgstr "Ir al importador automático"
+
+#: inc/onboarding/theme-info.php:91
+msgid "Importing the demo will make your website look like our website."
+msgstr "La importación de la demostración hará que la apariencia de tu web sea como la de la nuestra."
+
+#: inc/onboarding/theme-info.php:90
+msgid "Import demo content (optional)"
+msgstr "Importar el contenido de la demostración (opcional)"
+
+#: inc/onboarding/theme-info.php:82
+msgid "Kirki is a framework for theme options. You need this plugin to access Airi's options."
+msgstr "Kirki es un entorno de trabajo para las opciones del tema. Necesitas este plugin para acceder a las opciones de Airi."
+
+#: inc/onboarding/theme-info.php:76
+msgid "This plugin is useful for importing our demos. You can uninstall it after you're done with it."
+msgstr "Este plugin es útil para importar nuestras demostraciones. Puedes desinstalarlo después de que hayas terminado con él."
+
+#: inc/onboarding/theme-info.php:67
+msgid "First time Elementor user?"
+msgstr "¿Eres usuario de Elementor por primera vez?"
+
+#: inc/onboarding/theme-info.php:62
+msgid "Elementor will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "Elementor te permitirá crear páginas añadiendo widgets a ellas usando el método de arrastrar y soltar."
+
+#: inc/onboarding/theme-info.php:55
+msgid "Airi Demo Importer is a free addon for the Airi WordPress theme. It acts as an interface between the One Click Demo Import plugin and our theme."
+msgstr "Airi Demo Importer es una extensión gratuita para el tema de Airi para WordPress. Actúa como una interfaz entre el plugin One Click Demo Import y nuestro tema."
+
+#: inc/onboarding/theme-info.php:49
+msgid "Install one plugin at a time. Wait for each plugin to activate."
+msgstr "Instala un plugin cada vez. Espera a que cada plugin se active."
+
+#: inc/onboarding/theme-info.php:48
+msgid "Install recommended plugins"
+msgstr "Instalar los plugins recomendados"
+
+#: inc/onboarding/theme-info.php:32
+msgid "Airi is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Airi. You can always come back to this page by going to <strong>Appearance > Airi Info</strong>."
+msgstr "Ahora, Airi está instalado y listo para usar. Para ayudarte con el siguiente paso, hemos reunido en esta página todos los recursos que puedes necesitar. Esperamos que disfrutes usando Airi. Siempre puedes volver a esta página desde <strong>Apariencia > Información de Airi</strong>."
+
+#: inc/onboarding/theme-info.php:31 inc/theme-dashboard-settings.php:173
+msgid "Welcome to Airi"
+msgstr "Bienvenido a Airi"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:112
+msgid "Jetpack Portfolio"
+msgstr "Porfolio de Jetpack"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:107
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: comments.php:83 comments.php:85 comments.php:107 comments.php:109
+msgid "Message"
+msgstr "Mensaje"
+
+#: comments.php:82 comments.php:106
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:81 comments.php:105
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:80 comments.php:104
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:74 comments.php:98
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+#: comments.php:73 comments.php:97
+msgid "Leave A Comment"
+msgstr "Deja un comentario"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:20
+msgid "Style 6"
+msgstr "Estilo 6"
+
+#: inc/customizer/options/section-header.php:596
+msgid "Button Url"
+msgstr "URL del botón"
+
+#: inc/customizer/options/section-header.php:582
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/options/section-header.php:568
+msgid "Block Top Right Content"
+msgstr "Bloque de contenido superior derecho"
+
+#: inc/customizer/options/section-header.php:554
+msgid "Block Top Left Content"
+msgstr "Bloque de contenido superior izquierdo"
+
+#: inc/customizer/options/section-header.php:540
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer/options/section-header.php:526
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer/options/section-header.php:511
+msgid "Google +"
+msgstr "Google+"
+
+#: inc/customizer/options/section-header.php:497
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/section-header.php:483
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/section-header.php:469
+msgid "Call Us"
+msgstr "Llámanos"
+
+#: inc/customizer/options/section-header.php:467
+msgid "Custom Text"
+msgstr "Texto personalizado"
+
+#: inc/customizer/options/section-header.php:29
+msgid "Basic 4 - inside header"
+msgstr "Básico 4 - Cabecera interior"
+
+#: inc/customizer/options/section-header.php:28
+msgid "Basic 3 - inside header"
+msgstr "Básico 3 - Cabecera interior"
+
+#: inc/customizer/options/section-blog.php:132
+msgid "Comment Form Layout"
+msgstr "Diseño del formulario de comentarios"
+
+#: inc/customizer/options/section-blog.php:126
+#: inc/customizer/options/section-blog.php:138
+msgid "Layout 3"
+msgstr "Diseño 3"
+
+#: inc/customizer/options/section-blog.php:125
+#: inc/customizer/options/section-blog.php:137
+msgid "Layout 2"
+msgstr "Diseño 2"
+
+#: inc/customizer/options/section-blog.php:120
+msgid "Content layout"
+msgstr "Diseño del contenido"
+
+#: inc/customizer/options/section-blog.php:30
+msgid "Two Columns"
+msgstr "Dos columnas"
+
+#: inc/customizer/options/section-blog.php:29
+msgid "Classic"
+msgstr "Clásico"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:155
+msgid "Activating "
+msgstr "Activando "
+
+#: inc/onboarding/theme-info.php:244 inc/theme-dashboard-settings.php:141
+msgid "Priority support"
+msgstr "Soporte prioritario"
+
+#: inc/onboarding/theme-info.php:239 inc/theme-dashboard-settings.php:136
+msgid "Extended WooCommerce options"
+msgstr "Opciones de WooCommerce extendidas"
+
+#: inc/onboarding/theme-info.php:234 inc/theme-dashboard-settings.php:131
+msgid "Extra blog layouts (list, masonry)"
+msgstr "Diseños de blog adicionales (lista, muro)"
+
+#: inc/onboarding/theme-info.php:229 inc/theme-dashboard-settings.php:126
+msgid "Two extra menu types"
+msgstr "Dos tipos de menú adicionales"
+
+#: inc/onboarding/theme-info.php:224 inc/theme-dashboard-settings.php:121
+msgid "Extra Elementor blocks (portfolio, shop categories, slider)"
+msgstr "Bloques de Elementor adicionales (porfolio, categorías de tienda, carrusel)"
+
+#: inc/onboarding/theme-info.php:219 inc/theme-dashboard-settings.php:116
+msgid "Footer background image"
+msgstr "Imagen de fondo del pie de página"
+
+#: inc/onboarding/theme-info.php:214 inc/theme-dashboard-settings.php:111
+msgid "Footer Credits option"
+msgstr "Opción de agradecimientos del pie de página"
+
+#: inc/onboarding/theme-info.php:209 inc/theme-dashboard-settings.php:106
+msgid "Growing collection of premium demos"
+msgstr "Creciente colección de demostraciones premium"
+
+#: inc/onboarding/theme-info.php:204 inc/theme-dashboard-settings.php:101
+msgid "WooCommerce compatible"
+msgstr "Compatible con WooCommerce"
+
+#: inc/onboarding/theme-info.php:200 inc/theme-dashboard-settings.php:96
+msgid "Background image support"
+msgstr "Compatibilidad de imagen de fondo"
+
+#: inc/onboarding/theme-info.php:195 inc/theme-dashboard-settings.php:91
+msgid "Widgetized footer"
+msgstr "Pie de página con widgets"
+
+#: inc/onboarding/theme-info.php:117 inc/onboarding/theme-info.php:190
+#: inc/theme-dashboard-settings.php:86
+msgid "Blog options"
+msgstr "Opciones del blog"
+
+#: inc/onboarding/theme-info.php:115 inc/onboarding/theme-info.php:185
+#: inc/theme-dashboard-settings.php:81
+msgid "Color options"
+msgstr "Opciones de color"
+
+#: inc/onboarding/theme-info.php:180 inc/theme-dashboard-settings.php:76
+msgid "Translation ready"
+msgstr "Listo para traducir"
+
+#: inc/onboarding/theme-info.php:175 inc/theme-dashboard-settings.php:71
+msgid "Custom Elementor blocks"
+msgstr "Bloques de Elementor personalizados"
+
+#: inc/onboarding/theme-info.php:170 inc/theme-dashboard-settings.php:66
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/onboarding/theme-info.php:165 inc/theme-dashboard-settings.php:61
+msgid "Parallax backgrounds"
+msgstr "Fondos de Parallax"
+
+#: inc/onboarding/theme-info.php:160 inc/theme-dashboard-settings.php:56
+msgid "Responsive"
+msgstr "Adaptable"
+
+#: inc/onboarding/theme-info.php:155 inc/theme-dashboard-settings.php:51
+msgid "Access to all Google Fonts"
+msgstr "Acceso a todas las fuentes de Google"
+
+#: inc/onboarding/theme-info.php:150 inc/theme-dashboard-settings.php:46
+msgid "Elementor support"
+msgstr "Compatible con Elementor"
+
+#: inc/onboarding/theme-info.php:145 inc/theme-dashboard-settings.php:41
+msgid "Airi Pro"
+msgstr "Airi Pro"
+
+#: inc/onboarding/theme-info.php:143 inc/theme-dashboard-settings.php:39
+msgid "Feature"
+msgstr "Característica"
+
+#: inc/onboarding/theme-info.php:265
+msgid "See the changelog"
+msgstr "Ver el registro de cambios"
+
+#: inc/onboarding/theme-info.php:135
+msgid "See the Documentation"
+msgstr "Consultar la documentación"
+
+#: inc/onboarding/theme-info.php:134
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Nuestra documentación puede ayudarte a aprender a cómo usar el tema y también te proporciona fragmentos de código listos para usar y respuestas a preguntas frecuentes."
+
+#: inc/onboarding/theme-info.php:129
+msgid "Visit the forums"
+msgstr "Visita los foros"
+
+#: inc/onboarding/theme-info.php:128
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "¿Necesitas ayuda? Visita nuestros foros de soporte y estaremos encantados de ayudarte con cualquier pregunta que tengas relacionada con el tema."
+
+#: inc/onboarding/theme-info.php:127
+msgid "Visit our forums"
+msgstr "Visita nuestros foros"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:88
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#: theme-dashboard/class-theme-dashboard.php:548
+#: inc/onboarding/theme-info.php:133
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "Gratuito frente a Pro"
+
+#: theme-dashboard/class-theme-dashboard.php:724
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: theme-dashboard/class-theme-dashboard.php:613
+#: inc/onboarding/theme-info.php:39
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "Primeros pasos"
+
+#: inc/theme-dashboard-settings.php:175
+msgid "Airi is now installed and ready to go. To help you with the next step, we've gathered together on this page all the resources you might need. We hope you enjoy using Airi."
+msgstr "Airi ya está instalado y listo para usarse. Para ayudarte con el siguiente paso, hemos reunido en esta página todos los recursos que puedas necesitar. Esperamos que disfrutes usando Airi. "
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "Hola, %s,"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Airi Info"
+msgstr "Información de Airi"
+
+#: inc/theme-dashboard-settings.php:284
+#: inc/customizer/upsell/class-customize.php:77
+msgid "Get Airi Pro"
+msgstr "Consigue Airi Pro"
+
+#: inc/customizer/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "¿Preparado para más?"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/customizer/options/section-header.php:460
+msgid "Disable header search icon?"
+msgstr "¿Desactivar el icono de búsqueda de encabezado?"
+
+#: inc/customizer/options/section-colors.php:829
+msgid "Mobile toggle color"
+msgstr "Color del alternador para móvil"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Constructor de páginas"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Ancho completo"
+
+#: widgets/class-airi-social.php:63
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Elegir &mdash;"
+
+#: widgets/class-airi-social.php:61
+msgid "Select your social menu:"
+msgstr "Selecciona tu menú social:"
+
+#: widgets/class-airi-social.php:59
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Para mostrar tus iconos de las redes sociales en un widget, todo lo que debes hacer es ir a <strong>Apariencia > Menús</strong> y crear un menú que contenga enlaces a tus perfiles sociales y, a continuación, asignar tu menú aquí. Redes compatibles: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, LinkedIn, YouTube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/class-airi-social.php:51
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Aún no se han creado menús. <a href=\"%s\">Crea alguno</a>."
+
+#: widgets/class-airi-social.php:12
+msgid "Airi: Social Profile"
+msgstr "Airi: perfil social"
+
+#: widgets/class-airi-social.php:11
+msgid "Display your social profile"
+msgstr "Muestra tu perfil social"
+
+#: widgets/class-airi-recent-posts.php:142
+msgid "Display post date?"
+msgstr "¿Mostrar la fecha de la entrada?"
+
+#: widgets/class-airi-recent-posts.php:138
+msgid "Number of posts to show:"
+msgstr "Número de entradas a mostrar:"
+
+#: widgets/class-airi-social.php:56 widgets/class-airi-recent-posts.php:135
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets/class-airi-recent-posts.php:23
+msgid "Airi: Recent Posts"
+msgstr "Airi: entradas recientes"
+
+#: widgets/class-airi-recent-posts.php:20
+msgid "Recent posts with thumbnails."
+msgstr "Últimas entradas con miniaturas."
+
+#: tribe-events/widgets/list-widget.php:127
+msgid "There are no upcoming %s at this time."
+msgstr "No hay %s próximo en este momento."
+
+#: tribe-events/widgets/list-widget.php:116
+msgid "See this event"
+msgstr "Ver este evento"
+
+#: template-parts/menus/menu-menuStyle5.php:20
+#: template-parts/menus/menu-menuStyle4.php:30
+#: template-parts/menus/menu-menuStyle6.php:36
+#: template-parts/menus/menu-menuStyle3.php:49
+#: template-parts/menus/menu-menuStyle1.php:20
+#: template-parts/menus/menu-menuStyle2.php:20
+msgid "Toggle mobile menu"
+msgstr "Alternar menú móvil"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single-2.php:66
+#: template-parts/content-single-3.php:66 template-parts/content-single.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Sigue leyendo <span class=\"screen-reader-text\">«%s»</span>"
+
+#: template-parts/content-single-2.php:77
+#: template-parts/content-single-3.php:77 template-parts/content-page.php:24
+#: template-parts/content-single.php:65
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, intenta de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Comienza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lesson"
+msgstr "%d lección"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lessons"
+msgstr "%d lecciones"
+
+#: learnpress/widgets/recent-courses/default.php:24
+msgid "No courses"
+msgstr "Sin cursos"
+
+#: inc/woocommerce.php:215
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de compras"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Han terminado todas las instalaciones y activaciones."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Ver detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Fallo en la activación del plugin."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se realizará ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:112
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Stairis"
+msgstr "Stairis"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install stairis, 2: update stairis
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Stairis"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El plugin siguiente se ha activado correctamente:"
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#. translators: 1: comment count number, 2: title.
+#: inc/template-tags.php:197
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 inc/template-tags.php:88
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:71
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario <span class=\"screen-reader-text\">en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:61
+msgid "Tagged %1$s"
+msgstr "Etiquetado  %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ","
+
+#. translators: %s: post author.
+#: inc/template-tags.php:41
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/template-functions.php:294
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %2$s por %1$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: inc/template-functions.php:289
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: inc/template-functions.php:287
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: inc/template-functions.php:253
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-functions.php:246
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación."
+
+#: inc/template-functions.php:237
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "el %1$s a las %2$s"
+
+#: inc/customizer/options/section-typography.php:367
+msgid "Footer credits"
+msgstr "Agradecimientos del pie de página"
+
+#: inc/customizer/options/section-typography.php:345
+msgid "Footer widgets text"
+msgstr "Texto de widgets de pie de página"
+
+#: inc/customizer/options/section-typography.php:323
+msgid "Footer widget titles"
+msgstr "Títulos de widgets de pie de página"
+
+#: inc/customizer/options/section-typography.php:317
+msgid "Footer area"
+msgstr "Área del pie de página"
+
+#: inc/customizer/options/section-typography.php:292
+msgid "Widgets text"
+msgstr "Texto de los widgets"
+
+#: inc/customizer/options/section-typography.php:240
+msgid "Post titles (singles)"
+msgstr "Títulos de las entradas (individuales)"
+
+#: inc/customizer/options/section-typography.php:219
+msgid "Post titles (archives)"
+msgstr "Títulos de las entradas (archivos)"
+
+#: inc/customizer/options/section-typography.php:116
+msgid "Header area"
+msgstr "Área de cabecera"
+
+#: inc/customizer/options/section-typography.php:71
+msgid "Font sizes"
+msgstr "Tamaños de fuente"
+
+#: inc/customizer/options/section-typography.php:49
+#: inc/customizer/options/section-typography.php:88
+msgid "Body"
+msgstr "Cuerpo"
+
+#: inc/customizer/options/section-typography.php:27
+msgid "Headings"
+msgstr "Encabezados"
+
+#: inc/customizer/options/section-typography.php:18
+msgid "Font families"
+msgstr "Familia de fuente"
+
+#: inc/customizer/options/section-typography.php:10
+msgid "Typography"
+msgstr "Tipografía"
+
+#: template-parts/menus/menu-menuStyle4.php:14
+#: inc/customizer/options/section-header.php:432
+msgid "9-18 Mon-Fri"
+msgstr "9-18 lunes a viernes"
+
+#: template-parts/menus/menu-menuStyle4.php:13
+#: inc/customizer/options/section-header.php:418
+#: inc/customizer/options/section-header.php:430
+msgid "Opening hours"
+msgstr "Horario de apertura"
+
+#: inc/customizer/options/section-header.php:416
+msgid "Above opening hours"
+msgstr "Encima de las horas de apertura"
+
+#: template-parts/menus/menu-menuStyle4.php:12
+#: inc/customizer/options/section-header.php:390
+msgid "Brooklyn Street"
+msgstr "Calle Sierpes"
+
+#: inc/customizer/options/section-header.php:388
+msgid "Your address"
+msgstr "Tu dirección"
+
+#: inc/customizer/options/section-header.php:374
+msgid "Above address text"
+msgstr "Encima del texto de dirección"
+
+#: template-parts/menus/menu-menuStyle4.php:9
+#: inc/customizer/options/section-header.php:334
+msgid "Call us"
+msgstr "Llámanos"
+
+#: inc/customizer/options/section-header.php:332
+msgid "Above phone number text"
+msgstr "Encima del texto del número de teléfono"
+
+#: inc/customizer/options/section-header.php:265
+msgid "*Extended 2* menu options"
+msgstr "*Extendido 2* opciones de menú"
+
+#: inc/customizer/options/section-header.php:248
+#: inc/customizer/options/section-header.php:346
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#: inc/customizer/options/section-header.php:219
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/customizer/options/section-header.php:196
+msgid "Social profile URL"
+msgstr "URL del perfil social"
+
+#: inc/customizer/options/section-header.php:168
+#: inc/customizer/options/section-header.php:191
+msgid "Social network"
+msgstr "Red social"
+
+#: inc/customizer/options/section-header.php:164
+msgid "Available for menu types Extended 1"
+msgstr "Disponible para tipos de menú Extendido 1"
+
+#: inc/customizer/options/section-header.php:163
+msgid "Social links"
+msgstr "Enlaces sociales"
+
+#: inc/customizer/options/section-header.php:113
+#: inc/customizer/options/section-header.php:306 inc/template-functions.php:109
+msgid "http://example.org/contact/"
+msgstr "http://example.org/contact/"
+
+#: inc/customizer/options/section-header.php:111
+#: inc/customizer/options/section-header.php:304
+msgid "Call to action URL"
+msgstr "URL de la llamada a la acción"
+
+#: template-parts/menus/menu-menuStyle4.php:15
+#: inc/customizer/options/section-header.php:99
+#: inc/customizer/options/section-header.php:292 inc/template-functions.php:108
+msgid "Get a quote"
+msgstr "Consigue una cotización"
+
+#: inc/customizer/options/section-header.php:97
+#: inc/customizer/options/section-header.php:290
+msgid "Call to action text"
+msgstr "Texto de la llamada a la acción"
+
+#: inc/customizer/options/section-header.php:72
+msgid "*Extended 1* menu options"
+msgstr "* Extendido 1 * opciones de menú"
+
+#: inc/customizer/options/section-header.php:63
+msgid "Static menu"
+msgstr "Menú estático"
+
+#: inc/customizer/options/section-header.php:58
+#: inc/customizer/options/section-header.php:62
+msgid "Sticky menu"
+msgstr "Menú fijo"
+
+#: inc/customizer/options/section-header.php:40
+msgid "Not contained"
+msgstr "No contenido"
+
+#: inc/customizer/options/section-header.php:39
+msgid "Contained"
+msgstr "Contenido"
+
+#: inc/customizer/options/section-header.php:35
+msgid "Menu width"
+msgstr "Ancho del menú"
+
+#: inc/customizer/options/section-header.php:27
+msgid "Basic 2 - outside header"
+msgstr "Básico 2 - fuera de la cabecera"
+
+#: inc/customizer/options/section-header.php:26
+msgid "Basic 1 - inside header"
+msgstr "Básico 1 - dentro de la cabecera"
+
+#: inc/customizer/options/section-header.php:22
+msgid "Menu type"
+msgstr "Tipo de menú"
+
+#: inc/customizer/options/section-header.php:15
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/options/section-footer.php:25
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/options/section-footer.php:24
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/section-footer.php:23
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/section-footer.php:22
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/options/section-footer.php:17
+msgid "Footer widget areas"
+msgstr "Áreas de widget del pie de página"
+
+#: inc/customizer/options/section-footer.php:10
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/options/section-colors.php:984
+msgid "Widget links"
+msgstr "Enlaces del widget"
+
+#: inc/customizer/options/section-colors.php:969
+msgid "Widget text"
+msgstr "Texto del widget"
+
+#: inc/customizer/options/section-colors.php:954
+#: inc/customizer/options/section-typography.php:271
+msgid "Widget titles"
+msgstr "Título del widget"
+
+#: inc/customizer/options/section-colors.php:946
+msgid "Sidebar&amp;footer widgets"
+msgstr "Barra lateral y widgets del pie de página"
+
+#: inc/customizer/options/section-colors.php:923
+msgid "Body text"
+msgstr "Texto del cuerpo"
+
+#: inc/customizer/options/section-colors.php:909
+msgid "Meta links"
+msgstr "Meta enlaces"
+
+#: inc/customizer/options/section-colors.php:895
+msgid "Meta text"
+msgstr "Meta texto"
+
+#: inc/customizer/options/section-colors.php:881
+msgid "Categories (single and archives)"
+msgstr "Categorías (individuales y archivos)"
+
+#: inc/customizer/options/section-colors.php:867
+msgid "Post title (single)"
+msgstr "Título de la entrada (individual)"
+
+#: inc/customizer/options/section-colors.php:853
+msgid "Post title (archives)"
+msgstr "Título de la entrada (archivos)"
+
+#: inc/customizer/options/section-colors.php:814
+msgid "Submenu background"
+msgstr "Fondo del submenú"
+
+#: inc/customizer/options/section-colors.php:800
+#: inc/customizer/options/section-typography.php:188
+msgid "Submenu items"
+msgstr "Elementos del submenu"
+
+#: inc/customizer/options/section-colors.php:774
+msgid "Contact blocks - bottom line"
+msgstr "Bloques de contacto - línea inferior"
+
+#: inc/customizer/options/section-colors.php:749
+msgid "Contact blocks - top line"
+msgstr "Bloques de contacto - línea superior"
+
+#: inc/customizer/options/section-colors.php:678
+msgid "Menu background color"
+msgstr "Color de fondo del menú"
+
+#: inc/customizer/options/section-colors.php:436
+msgid "Top bar color"
+msgstr "Color de la barra superior"
+
+#: inc/customizer/options/section-colors.php:415
+msgid "Top bar background"
+msgstr "Color de fondo de la barra superior"
+
+#: inc/customizer/options/section-colors.php:209
+#: inc/customizer/options/section-colors.php:387
+#: inc/customizer/options/section-colors.php:608
+msgid "Background color (sticky)"
+msgstr "Color de fondo (fijo)"
+
+#: inc/customizer/options/section-colors.php:163
+#: inc/customizer/options/section-colors.php:342
+#: inc/customizer/options/section-colors.php:562
+msgid "Top level menu items (sticky)"
+msgstr "Elementos del menú de nivel superior (fijo)"
+
+#: inc/customizer/options/section-colors.php:142
+#: inc/customizer/options/section-colors.php:321
+#: inc/customizer/options/section-colors.php:541
+#: inc/customizer/options/section-colors.php:702
+#: inc/customizer/options/section-typography.php:166
+msgid "Top level menu items"
+msgstr "Elementos del menú de nivel superior"
+
+#: inc/customizer/options/section-colors.php:121
+#: inc/customizer/options/section-colors.php:300
+#: inc/customizer/options/section-colors.php:520
+msgid "Site description (sticky)"
+msgstr "Descripción del sitio (fijo)"
+
+#: inc/customizer/options/section-colors.php:100
+#: inc/customizer/options/section-colors.php:279
+#: inc/customizer/options/section-colors.php:499
+#: inc/customizer/options/section-colors.php:657
+#: inc/customizer/options/section-typography.php:144
+msgid "Site description"
+msgstr "Descripción del sitio"
+
+#: inc/customizer/options/section-colors.php:79
+#: inc/customizer/options/section-colors.php:258
+#: inc/customizer/options/section-colors.php:478
+msgid "Site title (sticky)"
+msgstr "Título del sitio (fijo)"
+
+#: inc/customizer/options/section-colors.php:58
+#: inc/customizer/options/section-colors.php:237
+#: inc/customizer/options/section-colors.php:457
+#: inc/customizer/options/section-colors.php:636
+#: inc/customizer/options/section-typography.php:122
+msgid "Site title"
+msgstr "Título del sitio"
+
+#: inc/customizer/options/section-colors.php:48
+msgid "Different color options show up here, based on the type of menu you select from the Header > Menu section"
+msgstr "Aquí se muestran diferentes opciones de color, según el tipo de menú que selecciones en la sección Encabezado > Menú"
+
+#: inc/customizer/options/section-colors.php:46
+#: inc/customizer/options/section-header.php:10
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/options/section-colors.php:22
+msgid "Primary color"
+msgstr "Color principal"
+
+#: inc/customizer/options/section-colors.php:13
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer/options/section-blog.php:114
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/options/section-blog.php:109
+msgid "Single post layout"
+msgstr "Diseño de las entradas individuales"
+
+#: inc/customizer/options/section-blog.php:102
+msgid "Single posts"
+msgstr "Entradas individuales"
+
+#: inc/customizer/options/section-blog.php:91
+msgid "Hide comments number?"
+msgstr "¿Ocultar el número de comentarios?"
+
+#: inc/customizer/options/section-blog.php:83
+#: inc/customizer/options/section-blog.php:168
+msgid "Hide post author?"
+msgstr "¿Ocultar el autor de la entrada?"
+
+#: inc/customizer/options/section-blog.php:75
+#: inc/customizer/options/section-blog.php:160
+msgid "Hide post categories?"
+msgstr "¿Ocultar categorías de la entrada?"
+
+#: inc/customizer/options/section-blog.php:67
+#: inc/customizer/options/section-blog.php:152
+msgid "Hide post date?"
+msgstr "¿Ocultar fecha de la entrada?"
+
+#: inc/customizer/options/section-blog.php:59
+#: inc/customizer/options/section-blog.php:144
+msgid "Hide post thumbnail?"
+msgstr "¿Ocultar la miniatura de la entrada?"
+
+#: theme-dashboard/class-theme-dashboard.php:393
+#: theme-dashboard/class-theme-dashboard.php:413
+#: theme-dashboard/class-theme-dashboard.php:433
+#: template-parts/content-list-2.php:11 template-parts/content.php:11
+#: template-parts/content-search.php:11
+#: inc/customizer/options/section-blog.php:52
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/customizer/options/section-blog.php:50
+msgid "Leave empty to hide"
+msgstr "Déjalo vacío para ocultarlo"
+
+#: inc/customizer/options/section-blog.php:49
+msgid "Read more text"
+msgstr "Texto «Leer más»"
+
+#: inc/customizer/options/section-blog.php:36
+msgid "Excerpt length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/options/section-blog.php:28
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/customizer/options/section-blog.php:27
+#: inc/customizer/options/section-blog.php:113
+#: inc/customizer/options/section-blog.php:124
+#: inc/customizer/options/section-blog.php:136
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer/options/section-blog.php:23
+msgid "Blog layout"
+msgstr "Plantilla del blog"
+
+#: inc/customizer/options/section-blog.php:16
+msgid "Index&amp;archives"
+msgstr "Indice y archivos"
+
+#: inc/customizer/kirki/include-kirki.php:61
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#: inc/customizer/kirki/include-kirki.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr "Activar Kirki Toolkit"
+
+#: inc/customizer/kirki/include-kirki.php:59
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Has instalado Kirki. Actívalo para aprovechar las características de este tema en el personalizador."
+
+#: inc/customizer/kirki/include-kirki.php:56
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: inc/customizer/kirki/include-kirki.php:55
+msgid "Install Kirki Toolkit now"
+msgstr "Instalar Kirki Toolkit"
+
+#: inc/customizer/kirki/include-kirki.php:54
+msgid "A plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Se necesita un plugin para aprovechar las características de este tema en el personalizador."
+
+#: inc/customizer/options/section-typography.php:82
+#: inc/customizer/customizer.php:17
+msgid "General"
+msgstr "General"
+
+#: inc/compatibility/learnpress.php:14
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:26
+msgid "General color"
+msgstr "Color general"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:19
+msgid "List style"
+msgstr "Estilo de lista"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:105
+msgid "Marker"
+msgstr "Marcador"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:91
+msgid "Longitude"
+msgstr "Longitud"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:78
+msgid "Latitude"
+msgstr "Latitud"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "Please go here %s to get your Google Maps API Key."
+msgstr "Por favor, ve aquí %s para obtener tu clave de la API de Google Maps."
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:63
+msgid "API key"
+msgstr "Clave de la API"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "here"
+msgstr "aquí"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+msgid "Please go here %s to find the latitude and longitute for your address."
+msgstr "Por favor, ve aquí %s para encontrar la latitud y longitud de tu dirección."
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:50
+msgid "Note"
+msgstr "Nota"
+
+#: template-parts/menus/menu-menuStyle4.php:11
+#: inc/customizer/options/section-header.php:376
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:33
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:28
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, Londres, Reino Unido"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:22
+msgid "Airi map"
+msgstr "Mapa de Airi"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:106
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:123
+msgid "Read more >>"
+msgstr "Leer más >>"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:29
+msgid "Read more link"
+msgstr "Enlace de leer más"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:20
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:20
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:19
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:63
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:61
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:20
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:286
+msgid "Author"
+msgstr "Autor"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:30
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:28
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:29
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:29
+#: inc/compatibility/elementor/blocks/block-blog.php:222
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/options/section-colors.php:185
+#: inc/customizer/options/section-colors.php:363
+#: inc/customizer/options/section-colors.php:583
+#: inc/customizer/options/section-colors.php:723
+#: inc/compatibility/elementor/blocks/block-blog.php:191
+#: inc/compatibility/elementor/blocks/block-blog.php:253
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:166
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:74
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:39
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:72
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:40
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:40
+#: inc/compatibility/elementor/blocks/block-blog.php:139
+#: inc/compatibility/elementor/blocks/block-blog.php:175
+#: inc/compatibility/elementor/blocks/block-blog.php:234
+#: inc/compatibility/elementor/blocks/block-blog.php:298
+msgid "Color"
+msgstr "Color"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:130
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:121
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:107
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:94
+msgid "Select your categories"
+msgstr "Selecciona tus categorías"
+
+#: inc/customizer/options/section-blog.php:12
+#: inc/customizer/options/section-colors.php:845
+#: inc/customizer/options/section-typography.php:213
+#: inc/compatibility/elementor/blocks/block-blog.php:85
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:40
+msgid "aThemes: Blog"
+msgstr "aThemes: Blog"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:234
+msgid "Airi Elements"
+msgstr "Elementos Airi"
+
+#: functions.php:125
+msgid "Footer "
+msgstr "Pie de página "
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:112 inc/customizer/options/section-typography.php:265
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s comments"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: 1: title.
+#: inc/template-tags.php:193 comments.php:34
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Tal vez intentando con una búsqueda?"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:540
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/airi"
+msgstr "https://athemes.com/theme/airi"

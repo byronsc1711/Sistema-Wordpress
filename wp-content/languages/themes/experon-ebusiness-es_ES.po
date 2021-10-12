@@ -1,0 +1,32 @@
+# Translation of Themes - Experon eBusiness in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Experon eBusiness package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-09 12:04:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Experon eBusiness\n"
+
+#. Description of the theme
+msgid "Experon eBusiness is the free version of the multi-purpose professional theme (Experon Pro) ideal for a business or blog website. The theme has a responsive layout, HD retina ready and comes with a powerful theme options panel with can be used to make awesome changes without touching any code. The theme also comes with a full width easy to use slider. Easily add a logo to your site and create a beautiful homepage using the built-in homepage layout. Compatible with WooCommerce, WPML, Polylang, Flat Parallax Slider, Photo Gallery and Travel Map, Elementor, Page Builder, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. It's a perfect theme for small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers."
+msgstr "Experon eBusiness es la versión gratuita del tema profesional multipropósito Experon Pro, ideal para una web de negocios o blogs. El tema tiene un diseño adaptable, preparado para Retina HD y viene con un poderoso panel de opciones de tema que se puede usar para realizar cambios asombrosos sin tocar nada de código. El tema también viene con un carrusel de ancho completo fácil de usar. Añade fácilmente un logotipo a tu sitio y crea una hermosa página de inicio usando el diseño de página de inicio incorporado. Es compatible con WooCommerce, WPML, Polylang, Flat Parallax Slider, Photo Gallery, Travel Map, Elementor, Page Builder, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Es un tema perfecto para pequeñas empresas (restaurantes, planificadores de bodas, deportes / tiendas médicas), startups, empresas corporativas, agencias y firmas en línea, carteras, comercio electrónico (WooCommerce) y autónomos."
+
+#. Theme Name of the theme
+msgid "Experon eBusiness"
+msgstr "Experon eBusiness"
+
+#. Author URI of the theme
+msgid "https://www.thinkupthemes.com"
+msgstr "https://www.thinkupthemes.com"
+
+#. Author of the theme
+msgid "Think Up Themes"
+msgstr "Think Up Themes"
+
+#. Theme URI of the theme
+msgid "https://www.thinkupthemes.com/free/experon/"
+msgstr "https://www.thinkupthemes.com/free/experon/"

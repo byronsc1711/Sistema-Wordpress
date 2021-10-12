@@ -1,0 +1,731 @@
+# Translation of Themes - Magazine Base in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Magazine Base package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-07 13:43:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Magazine Base\n"
+
+#: inc/layout-meta/layout-meta.php:87
+msgid "Single Page/Post Sidebar Layout"
+msgstr "Diseño de la barra lateral de las páginas/entradas individuales"
+
+#: inc/layout-meta/layout-meta.php:71
+msgid "General Setting"
+msgstr "Ajustes generales"
+
+#: inc/layout-meta/layout-meta.php:60
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/widgets/widgets.php:1101
+msgid "Instagram URL:"
+msgstr "URL de Instagram:"
+
+#. Translators: %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:325
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the search query.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:321
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/customizer/theme-option.php:340
+msgid "Enable Category Archive Title"
+msgstr "Activar el título del archivo de categorías"
+
+#: inc/layout-meta/layout-meta.php:81
+msgid "Check To Use Featured Image As Banner Image"
+msgstr "Marcar para usar la imagen destacada como imagen del banner"
+
+#: inc/customizer/theme-option.php:280
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: inc/customizer/theme-option.php:514
+msgid "Enable Preloader"
+msgstr "Activar el precargador"
+
+#: inc/customizer/theme-option.php:497
+msgid "Preloader Options"
+msgstr "Opciones del precargador"
+
+#: inc/customizer/theme-option.php:230
+msgid "Change the first letter to normal one in single page"
+msgstr "Cambiar la primera letra por una normal en la página individual"
+
+#: inc/customizer/theme-option.php:229
+msgid "Enable Large letter "
+msgstr "Activar la letra grande"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:38 template-parts/content.php:54
+#: template-parts/content.php:90 template-parts/content-page.php:39
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de la búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/widgets/widgets.php:1244
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "El menú social no está establecido. Tienes que crear el menú y asignarlo al menú social en los ajustes de menús."
+
+#: inc/widgets/widgets.php:1201
+msgid "MB: Social Menu Widget"
+msgstr "MB: Widget del menú social"
+
+#: inc/widgets/widgets.php:1191
+msgid "Note: Displays social menu if you have set it(social menu)"
+msgstr "Nora: Muestra el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:1185
+msgid "Displays social menu if you have set it(social menu)"
+msgstr "Mostrar el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:1107
+msgid "MB: Author Widget"
+msgstr "MB: Widget del autor"
+
+#: inc/widgets/widgets.php:1096
+msgid "Twitter URL:"
+msgstr "URL de Twitter:"
+
+#: inc/widgets/widgets.php:1091
+msgid "Facebook URL:"
+msgstr "URL de Facebook:"
+
+#: inc/widgets/widgets.php:1087
+msgid "Author Image:"
+msgstr "Imagen del autor:"
+
+#: inc/widgets/widgets.php:1077
+msgid "Name:"
+msgstr "Nombre:"
+
+#: inc/widgets/widgets.php:1067
+msgid "Displays authors details in post."
+msgstr "Muestra los datos del autor en la entrada."
+
+#: inc/widgets/widgets.php:1033
+msgctxt "Tabbed Widget"
+msgid "on"
+msgstr "en"
+
+#: inc/widgets/widgets.php:831
+msgid "MB: Sidebar Tab Widget"
+msgstr "MB: Widget de la pestaña de la barra lateral"
+
+#: inc/widgets/widgets.php:822
+msgid "No. of Comments:"
+msgstr "Número de comentarios:"
+
+#: inc/widgets/widgets.php:818 inc/widgets/widgets.php:870
+#: inc/widgets/widgets.php:872
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/widgets/widgets.php:806 inc/widgets/widgets.php:863
+#: inc/widgets/widgets.php:865
+msgid "Recent"
+msgstr "Reciente"
+
+#: inc/widgets/widgets.php:785 inc/widgets/widgets.php:810
+msgid "No. of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:781 inc/widgets/widgets.php:856
+#: inc/widgets/widgets.php:858
+msgid "Popular"
+msgstr "Popular"
+
+#: inc/widgets/widgets.php:777
+msgid "Tabbed widget."
+msgstr "Widget de pestañas."
+
+#: inc/widgets/widgets.php:636
+msgid "MB: Recent/Popular Post Widget"
+msgstr "MB: Widget de entradas recientes/populares"
+
+#: inc/widgets/widgets.php:614 inc/widgets/widgets.php:793
+msgid "Enable Description:"
+msgstr "Activar la descripción:"
+
+#: inc/widgets/widgets.php:594
+msgid "Displays post form selected category specific for popular post in sidebars."
+msgstr "Muestra las entradas de una categoría específica seleccionada para las entradas populares en las barras laterales."
+
+#: inc/widgets/widgets.php:416
+msgid "MB: Two Column Widget"
+msgstr "MB: Widget de dos columnas"
+
+#: inc/widgets/widgets.php:407 inc/widgets/widgets.php:620
+#: inc/widgets/widgets.php:799
+msgid "Number of words"
+msgstr "Número de palabras"
+
+#: inc/widgets/widgets.php:406 inc/widgets/widgets.php:619
+#: inc/widgets/widgets.php:798
+msgid "Excerpt Length:"
+msgstr "Longitud del extracto:"
+
+#: inc/widgets/widgets.php:378
+msgid "Displays post form selected category on List Format."
+msgstr "Muestra las entradas de la categoría seleccionada en un formato de lista."
+
+#: inc/widgets/widgets.php:257
+msgid "MB: Slider Widget"
+msgstr "MB: Widget del carrusel"
+
+#: inc/widgets/widgets.php:228
+msgid "Displays posts from selected category in slider"
+msgstr "Muestra las entradas de la categoría seleccionada en el carrusel"
+
+#: inc/widgets/widgets.php:92
+msgid "MB: Grid Widget"
+msgstr "MB: Widget de cuadrícula"
+
+#: inc/widgets/widgets.php:83 inc/widgets/widgets.php:248
+#: inc/widgets/widgets.php:398 inc/widgets/widgets.php:627
+msgid "Number of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:80 inc/widgets/widgets.php:245
+#: inc/widgets/widgets.php:395 inc/widgets/widgets.php:611
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/widgets.php:78 inc/widgets/widgets.php:243
+#: inc/widgets/widgets.php:393 inc/widgets/widgets.php:609
+msgid "Select Category:"
+msgstr "Seleccionar la categoría:"
+
+#: inc/widgets/widgets.php:73 inc/widgets/widgets.php:238
+#: inc/widgets/widgets.php:388 inc/widgets/widgets.php:604
+#: inc/widgets/widgets.php:1082 inc/widgets/widgets.php:1196
+msgid "Description:"
+msgstr "Descripción:"
+
+#: inc/widgets/widgets.php:68 inc/widgets/widgets.php:233
+#: inc/widgets/widgets.php:383 inc/widgets/widgets.php:599
+#: inc/widgets/widgets.php:1072 inc/widgets/widgets.php:1190
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widgets.php:63
+msgid "Displays posts from selected category in grid."
+msgstr "Muestra las entradas de la categoría seleccionada en una cuadrícula."
+
+#: inc/widgets/widget-base-class.php:289
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Choose Image"
+msgstr "Elegir una imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Select Image"
+msgstr "Seleccionar una imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widget-init.php:74
+msgid "Footer Column Three"
+msgstr "Columna tres del pie de página"
+
+#: inc/widget-init.php:63
+msgid "Footer Column Two"
+msgstr "Columna dos del pie de página"
+
+#: inc/widget-init.php:55 inc/widget-init.php:65 inc/widget-init.php:76
+msgid "Displays items on footer section."
+msgstr "Muestra los elementos en la sección del pie de página."
+
+#: inc/widget-init.php:53
+msgid "Footer Column One"
+msgstr "Columna uno del pie de página"
+
+#: inc/widget-init.php:41
+msgid "Home Page Sidebar Two"
+msgstr "Barra lateral dos de la página de inicio"
+
+#: inc/widget-init.php:31
+msgid "Home Page Sidebar One"
+msgstr "Barra lateral uno de la página de inicio"
+
+#: inc/widget-init.php:21
+msgid "Off-Canvas Sidebar"
+msgstr "Barra lateral fuera de lienzo"
+
+#: inc/widget-init.php:13 inc/widget-init.php:23 inc/widget-init.php:33
+#: inc/widget-init.php:43
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: inc/widget-init.php:11
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/template-tags.php:84
+msgid "Tagged in :"
+msgstr "Etiquetado en:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:66
+msgid "(Edit This Post) %s"
+msgstr "(Editar esta entrada) %s"
+
+#: inc/template-tags.php:59
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:59
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:59
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:53
+msgid "Categorized in :"
+msgstr "En la categoría:"
+
+#: inc/template-tags.php:35
+msgid "Published by : %s"
+msgstr "Publicado por: %s"
+
+#: inc/template-tags.php:30
+msgid "Published on : %s"
+msgstr "Publicado el: %s"
+
+#: inc/layout-meta/layout-meta.php:120
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: inc/layout-meta/layout-meta.php:107
+msgid "Single Page/Post Image Layout"
+msgstr "Diseño de la imagen en las páginas/entradas individuales"
+
+#: inc/layout-meta/layout-meta.php:22
+msgid "Single Page/Post Settings"
+msgstr "Ajustes de las páginas/entradas individuales"
+
+#: inc/widgets/widgets.php:177 inc/widgets/widgets.php:340
+#: inc/widgets/widgets.php:503 inc/widgets/widgets.php:715
+#: inc/widgets/widgets.php:968 inc/hooks/slider.php:58
+msgid "Published on : "
+msgstr "Publicado el: "
+
+#: inc/hooks/header-inner-page.php:44
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/hooks/header-inner-page.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: inc/customizer/theme-option.php:548
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/customizer/theme-option.php:547
+msgid "Simple"
+msgstr "Simple"
+
+#: inc/customizer/theme-option.php:546
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/customizer/theme-option.php:542
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr "Avanzado: Necesita el plugin %1$sBreadcrumb NavXT%2$s"
+
+#: inc/customizer/theme-option.php:541
+msgid "Breadcrumb Type"
+msgstr "Tipo de migas de pan"
+
+#: inc/customizer/theme-option.php:524
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: inc/customizer/theme-option.php:487
+msgid "Footer Copyright Text"
+msgstr "Texto de copyright del pie de página."
+
+#: inc/customizer/theme-option.php:472
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/theme-option.php:471
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/theme-option.php:470
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/theme-option.php:469
+msgid "Disable footer sidebar area"
+msgstr "Desactivar el área de la barra lateral del pie de página"
+
+#: inc/customizer/theme-option.php:464
+msgid "Number Of Footer Widget"
+msgstr "Número del widget del pie de página"
+
+#: inc/customizer/theme-option.php:447
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/theme-option.php:438
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/customizer/theme-option.php:437
+msgid "Default (Older / Newer Post)"
+msgstr "Por defecto (anterior / siguiente entrada)"
+
+#: inc/customizer/theme-option.php:433
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer/theme-option.php:416
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer/theme-option.php:400
+msgid "Single Post/Page Image Alocation"
+msgstr "Ubicación de la imagen en las entradas/páginas individuales"
+
+#: inc/customizer/theme-option.php:383 inc/customizer/theme-option.php:406
+msgid "No image"
+msgstr "Sin imagen"
+
+#: inc/layout-meta/layout-meta.php:114 inc/customizer/theme-option.php:382
+#: inc/customizer/theme-option.php:405
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/layout-meta/layout-meta.php:117 inc/customizer/theme-option.php:381
+#: inc/customizer/theme-option.php:404
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/layout-meta/layout-meta.php:111 inc/customizer/theme-option.php:380
+#: inc/customizer/theme-option.php:403
+msgid "Full"
+msgstr "Completa"
+
+#: inc/customizer/theme-option.php:377
+msgid "Archive Image Alocation"
+msgstr "Ubicación de la imagen del archivo"
+
+#: inc/customizer/theme-option.php:360
+msgid "Full Post"
+msgstr "Entrada completa"
+
+#: inc/customizer/theme-option.php:359
+msgid "Excerpt Only"
+msgstr "Solo el extracto"
+
+#: inc/customizer/theme-option.php:356
+msgid "Archive Layout"
+msgstr "Diseño del archivo"
+
+#: inc/customizer/theme-option.php:323
+msgid "Set Global Archive Length"
+msgstr "Establecer la longitud global del archivo"
+
+#: inc/layout-meta/layout-meta.php:98 inc/customizer/theme-option.php:306
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/layout-meta/layout-meta.php:92 inc/customizer/theme-option.php:305
+msgid "Primary Sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/layout-meta/layout-meta.php:95 inc/customizer/theme-option.php:304
+msgid "Content - Primary Sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/customizer/theme-option.php:301
+msgid "Global Layout"
+msgstr "Disposición global"
+
+#: inc/customizer/theme-option.php:284
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/customizer/theme-option.php:283
+msgid "Full Width"
+msgstr "Ancho Completo"
+
+#: inc/customizer/theme-option.php:263
+msgid "Enable Banner Overlay"
+msgstr "Activar la superposición del banner"
+
+#: inc/customizer/theme-option.php:246
+msgid "Enable Static Page Content"
+msgstr "Activar el contenido de la página estática"
+
+#: inc/customizer/theme-option.php:212
+msgid "Layout Management"
+msgstr "Gestión del diseño"
+
+#: inc/customizer/theme-option.php:193
+msgid "Navigation collapse will be shown with the popular post on the basis of comments"
+msgstr "El cierre de la navegación se mostrará con la entrada popular en la base de los comentarios"
+
+#: inc/customizer/theme-option.php:192
+msgid "Enable navigation collapse"
+msgstr "Activar el cierre de la navegación"
+
+#: inc/customizer/theme-option.php:175
+msgid "URL Link"
+msgstr "URL del enlace"
+
+#: inc/customizer/theme-option.php:158
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Tamaño recomendado %1$s px X %2$s px"
+
+#: inc/customizer/theme-option.php:157
+msgid "Top Section Advertisement"
+msgstr "Sección superior de publicidad"
+
+#: inc/customizer/theme-option.php:139
+msgid "Header Section"
+msgstr "Sección de cabecera"
+
+#: inc/customizer/theme-option.php:129
+msgid "Select category to be shown on side of slider i.e the 2 pined posts"
+msgstr "Selecciona la categoría que se mostrará en el lateral del carrusel, es decir, las 2 entradas fijas"
+
+#: inc/customizer/theme-option.php:128
+msgid "Category For 2 Pined Post "
+msgstr "Categoría para las 2 entradas fijas"
+
+#: inc/customizer/theme-option.php:111
+msgid "Category For Main slider"
+msgstr "Categoría para el carrusel principal"
+
+#: inc/customizer/theme-option.php:94
+msgid "Enable Slider"
+msgstr "Activar el carrusel"
+
+#: inc/customizer/theme-option.php:77
+msgid "Slider Section"
+msgstr "Sección carrusel"
+
+#: inc/customizer/theme-option.php:67
+msgid "Select category to be shown on tab "
+msgstr "Selecciona la categoría a mostrar en la pestaña "
+
+#: inc/customizer/theme-option.php:66
+msgid "Category for Trending News"
+msgstr "Categoría para las noticias en tendencia"
+
+#: inc/customizer/theme-option.php:48
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer/theme-option.php:31
+msgid "Enable Trending News"
+msgstr "Activar las noticias en tendencia"
+
+#: inc/customizer/theme-option.php:14
+msgid "Trending News Section"
+msgstr "Sección de las noticias en tendencia"
+
+#: inc/customizer/customizer.php:41
+msgid "Upgrade To Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/customizer/customizer.php:40
+msgid "Magazine Base Pro"
+msgstr "Magazine Base Pro"
+
+#: inc/customizer/customizer-default.php:55
+msgid "Copyright All rights reserved"
+msgstr "Copyright. Todos los derechos reservados."
+
+#: inc/customizer/customizer-default.php:31
+msgid "Trending Now"
+msgstr "Tendencia ahora"
+
+#: inc/customizer/theme-option.php:203
+msgid "Theme Options"
+msgstr "Ajustes del tema"
+
+#: header.php:144
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: header.php:52
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: header.php:33
+msgid "Loading &hellip;"
+msgstr "Cargando &hellip;"
+
+#. translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:167
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:162
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: functions.php:69
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:114
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %2$s por %1$s."
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:48 comments.php:68
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:46 comments.php:66
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:43 comments.php:63
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre &ldquo;%s&rdquo;"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:869
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:841
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1270
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:840
+#: assets/libraries/breadcrumbs/breadcrumbs.php:896
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1266
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:839
+#: assets/libraries/breadcrumbs/breadcrumbs.php:868
+#: assets/libraries/breadcrumbs/breadcrumbs.php:895
+#: assets/libraries/breadcrumbs/breadcrumbs.php:922
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1262
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:823
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:806
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:789
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:329
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:327
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:323
+msgid "Page %s"
+msgstr "Página %s"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:319
+msgid "Archives"
+msgstr "Archivo"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:318
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:317
+msgid "Home"
+msgstr "Inicio"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:316
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:315
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Qué tal si pruebas con uno de los links de abajo o haciendo una búsqueda?"

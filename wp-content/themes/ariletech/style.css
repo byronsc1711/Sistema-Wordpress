@@ -1,0 +1,233 @@
+/*
+Theme Name: Ariletech
+Theme URI: https://themearile.com/ariletech-theme/
+Template: arilewp
+Author: ThemeArile
+Author URI: https://themearile.com
+Description: Ariletech is a flexible multipurpose WordPress theme for businesses and large enterprises with pixel perfect design and outstanding functionality. As well as sophisticated plus it has some exotic features like customization and clean code, advanced typography, sticky menu, logo upload, header image, Bootstrap 4 framework, built with SEO in mind, and theme info area besides being Mobile ready, translation ready (WPML, Polylang) and it's built to be beautiful on all screen sizes. The theme perfectly suited for business, consultant, finance, corporate, freelancer, agency, business promotion, electrician, industries, education, SEO, construction, fashion, online shop, health & medical, Beauty & spa salons, wedding, photography, gym, cafe, music, architecture, lawyer, restaurant, hotel, blog, magazine, travel agency and many other websites compatible. This theme supports the best Elementor page builder to create, edit and updates page designs as per the requirement. Ariletech also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics and much more. Check the demo of ArileWP Pro https://themearile.com/arilewp-pro-theme/.
+Version: 2.2
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ariletech
+Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+*/
+
+/*--------------------------------------------------
+=>> Body Custom Background Css
+--------------------------------------------------*/
+
+body.custom-background .theme-bg-dark,
+body.custom-background .theme-bg-default, 
+body.custom-background .theme-blog.theme-bg-grey {
+    background-color: transparent !important;
+}
+
+/*--------------------------------------------------
+=>> Theme Slider
+--------------------------------------------------*/
+
+#theme-main-slider .item {
+    height: 1000px;
+}
+.theme-main-slider .overlay {
+    background-color: rgba(0, 0, 0, .55);
+}
+.divider-sm-center {
+    max-width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-radius: 3px;
+}
+
+
+/*--------------------------------------------------
+=>> Theme Info Area Css
+--------------------------------------------------*/
+
+.theme-main-slider ~ .container.vrsn-two#theme-info-area {
+    margin-top: 0 !important;
+}
+.container.vrsn-two#theme-info-area .theme-info-area span.info-details, 
+.container.vrsn-two#theme-info-area .theme-info-area .theme-info-area-title, 
+.container.vrsn-two#theme-info-area .theme-info-area .theme-info-area-title a {
+    color: #fff;
+}
+.container.vrsn-two#theme-info-area {
+    max-width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+}
+.container.vrsn-two#theme-info-area .theme-info-area {
+	border-radius: 0;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    box-shadow: none;
+	background-color: transparent;
+	border: 1px solid transparent;
+}
+.container.vrsn-two#theme-info-area .theme-info-area .media {
+	padding-right: 0;
+    padding-left: 0;
+}
+@media (min-width: 768px) {
+	.container.vrsn-two#theme-info-area .theme-info-area {
+		max-width: 720px;
+	}
+}
+@media (min-width: 992px) {
+	.container.vrsn-two#theme-info-area .theme-info-area {
+		max-width: 960px;
+	}
+}
+@media (min-width: 1200px) {
+	.container.vrsn-two#theme-info-area .theme-info-area {
+		max-width: 1140px !important;
+	}
+}
+@media (max-width: 768px) {
+	.container.vrsn-two#theme-info-area .theme-info-area {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}
+.container.vrsn-two#theme-info-area .theme-info-area i.icon {
+    background: #FFFFFF;
+}
+.container.vrsn-two#theme-info-area .theme-info-area .media:hover i.icon {
+    background: #01012F !important;
+	color: #ffffff !important;
+}
+
+/*--------------------------------------------------
+=>> Theme Testimonial Area
+--------------------------------------------------*/
+
+.theme-testimonial.vrsn-two { 
+	background-image: none;
+}
+.theme-testimonial-block.vrsn-two { 
+	background-color: transparent;
+    position: relative;    
+    font-size: unset;
+	transition: all 0.5s;
+	text-align: left;
+	padding: 0;
+	margin: 0 0 3.125rem;
+	border: none;
+}
+.theme-testimonial-block.vrsn-two:hover { 
+    box-shadow: none;
+	-webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+}
+.theme-testimonial-block.vrsn-two::after {
+	display: none;
+}
+.testimonial-content.vrsn-two { 
+	position: relative;
+    margin: 0 0 1.25rem;
+    padding: 3rem 1.25rem 1.150rem;
+    background-color: #fff;
+    border: none;
+    transition: all 0.5s;
+    border-radius: 3px;
+}
+.testimonial-content.vrsn-two:hover { 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+.testimonial-content.vrsn-two::before {
+    position: absolute;
+    left: 20px;
+    right: 0;
+    top: 15px;
+    content: "\f10d";
+    display: inline-block;
+    font-family: "FontAwesome";
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+.theme-testimonial-block.vrsn-two .thumbnail { 
+	margin: 0 1.25rem 0 0; 
+	width: 5rem; 
+	height: 5rem;  
+}
+.theme-testimonial-block.vrsn-two .thumbnail img { 
+	margin: 0.125rem; 
+}
+.theme-testimonial-block.vrsn-two .name, 
+.theme-testimonial-block.vrsn-two .name a,
+.theme-testimonial-block.vrsn-two .position {
+	color: #fff;	
+}
+.theme-testimonial.vrsn-two .owl-theme .owl-dots .owl-dot.active span {
+    border: 2px solid #ffffff;
+}
+
+/*--------------------------------------------------
+=>> Page Header
+--------------------------------------------------*/
+
+.theme-page-header-area {
+    padding: 6rem 0 6rem 0;
+}
+/*wp-block-latest-comments left space removed*/
+.wp-block-latest-comments {
+	margin-left: 0;
+	padding-left: 0rem;
+}
+/*Checkbox and radio button style issue in the customizer*/
+.customize-pane-child li input[type=checkbox]:focus, 
+.customize-pane-child li input[type=radio]:focus{
+	display: none;
+}
+/*wp-block-calendar font-weight and text-underline */
+.wp-block-calendar table th {
+    font-weight: 600;
+}
+.wp-block-calendar .wp-calendar-nav-next a, 
+.wp-block-calendar .wp-calendar-nav-prev a {
+	box-shadow: 0 1px 0 0 currentColor !important;
+}
+.wp-block-calendar .wp-calendar-nav-next a:hover, 
+.wp-block-calendar .wp-calendar-nav-prev a:hover {
+	box-shadow: none !important;
+}
+.wp-block-calendar a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+
+/*------------------------------------------------------------
+=>> Sidebar Widget Style Css According to WordPress 5.8
+------------------------------------------------------------*/
+
+.sidebar .widget .wp-block-group .wpcf7-form,
+.sidebar .widget .wp-block-group .wp-block-embed, 
+.sidebar .widget .wp-block-search .wp-block-search__inside-wrapper {
+	padding: 1.563rem 1.000rem 1.563rem;
+}
+.sidebar .widget .wp-block-search {
+	margin-bottom: 0;
+}
+
+/*------------------------------------------------------------
+=>> Footer Sidebar Widget Style Css According to WordPress 5.8
+------------------------------------------------------------*/
+
+.footer-sidebar .widget .wp-block-group h2 {
+	margin-bottom: 2.125rem;
+    padding: 0;
+    font-weight: 600;
+    font-size: 1.2rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+.footer-sidebar .widget .wp-block-search .wp-block-search__label {
+	color: #fff;
+}

@@ -1,0 +1,147 @@
+/*
+Theme Name: Corporate WP
+Tested up to: 5.8
+Requires PHP: 5.4
+Template: one-page-business
+Author: wpbusinessthemes
+Author URI: https://wpbusinessthemes.com
+Description: Corporate WP is a easy customizable theme can can be used to develop business sites like shop, storefront, blog, portfolio, online store, storefront, agency and eCommerce websites. Corporate WP uses customized bootstrap framework to design and optimize the theme loading speed and responsive design will render very well on various kind of devices.
+Tags: one-column,two-columns,left-sidebar,right-sidebar,custom-background,custom-colors,custom-header,custom-menu,featured-images,flexible-header,microformats,post-formats,rtl-language-support,sticky-post,threaded-comments,translation-ready,blog,e-commerce,theme-options
+Version: 1.0.2
+*/
+
+#page-site-header {
+    height: 100vh;
+}
+
+/* wishlist , quick view, compare */
+
+.product:hover .wishlist-compare-qw {
+	display:block;
+}
+
+.wishlist-compare-qw { 
+	padding-right:12px;
+}
+
+.wishlist-compare-qw { 
+	position: absolute;
+	top: 25px;
+	right: 0px;
+	color:#ffbf08;
+	padding: 2px 6px 3px 2px;
+	display: none;
+}
+.wishlist-compare-qw .woocommerce a.button { padding:0px; }
+.wishlist-compare-qw .feedback {
+	font-size:0px;
+	color:transparent;
+}
+
+.wishlist-compare-qw .yith-wcwl-wishlistexistsbrowse.show a, 
+.wishlist-compare-qw .yith-wcwl-wishlistaddedbrowse {
+	font-size:0px;
+	color:transparent;
+}
+
+.wishlist-compare-qw  .yith-wcwl-wishlistaddedbrowse a::before {
+    content: "\f00c";
+    font-family: fontawesome;
+    font-size: 16px;
+}
+
+.product a.added_to_cart:before {
+	color: #666666;
+	font-size:14px;	
+}
+
+.wishlist-compare-qw .yith-wcwl-wishlistexistsbrowse a { 
+	float: left; 
+	font-size:0px;
+	color:transparent;
+}
+
+.wishlist-compare-qw .yith-wcwl-wishlistaddedbrowse a:before {
+	content: "\f0cb";
+	font-family:'fontawesome';
+	font-size:16px;
+}
+
+.wishlist-compare-qw .yith-wcwl-add-button .add_to_wishlist {
+	font-size:0px;
+	color:transparent;
+}
+
+.wishlist-compare-qw .yith-wcwl-add-button .add_to_wishlist:before {
+	content: "\f004";
+	font-family:'fontawesome';
+	font-size:16px;
+}
+
+.wishlist-compare-qw .compare-button a {
+	font-size:0px;
+	color:transparent;
+	float: left;
+	padding-top:5px;
+	background-color:transparent;
+	
+}
+
+.woocommerce ul.products li.product .compare {
+	margin-left:1px;
+}
+
+.wishlist-compare-qw .woocommerce a.compare.button {
+    font-size: 0px;
+	background-color:transparent;
+}
+
+.wishlist-compare-qw .compare-button a:before {
+	content: "\f021";
+	font-family:'fontawesome';
+	font-size:16px;
+}
+
+.wishlist-compare-qw a.yith-wcqv-button {
+    margin-top: 1em;
+    font-size: 0px;
+    background-color: transparent;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.wishlist-compare-qw .button.yith-wcqv-button {
+	font-size:0px;
+	color:transparent;
+	float: left;
+	padding-top:5px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color:transparent;
+}
+.wishlist-compare-qw .button.yith-wcqv-button:before {
+	content: "\f06e";
+	font-family:'fontawesome';
+	font-size:16px;
+}
+
+.wishlist-compare-qw .button.yith-wcqv-button:hover{
+	background-color:transparent;
+}
+.product .wishlist-compare-qw .button.yith-wcqv-button {
+	display:block;
+	clear: both;
+}
+.product .button.yith-wcqv-button {
+	display:none;
+}
+
+#yith-quick-view-modal {
+    z-index: 99999;
+	top:unset;
+}
+
+#yith-quick-view-modal.open {
+	top:0;
+	z-index: 99999;
+}

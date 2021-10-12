@@ -1,0 +1,1658 @@
+# Translation of Themes - Rock Star in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Rock Star package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-09 06:46:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Rock Star\n"
+
+#. Description of the theme
+msgid "Rock Star is an incredibly sleek and Responsive Music WordPress Theme, built for artists, musician and bands aiming to promote their music and events. Created using HTML5 and CSS3, this aesthetically engaging theme is very easy to use. Simple modules and features are available so you can build a complete and custom website right away. Knowing the importance of the vast potential of social media, Rock Star allows you to update your followers regarding any activity, track release or event using the integrated social media support option. Its homepage is dominated by your logo, tagline, and a full-screen background image. With features like layouts, news ticker, featured content, featured slider, tours, breadcrumb, videos, social icons and instagram images gives you plenty of customizing power. This theme is translation ready. Check out Theme Instructions at https://catchthemes.com/theme-instructions/rock-star/, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/rock-star/"
+msgstr "Rock Star es un tema para WordPress de música increíblemente elegante y adaptable, construido para artistas, músicos y bandas que quieran promocionar su música y eventos. Creado usando HTML5 y CSS3, este tema, estéticamente atractivo, es muy fácil de usar. Dispone de módulos y características sencillas para que puedas construir una web completa y personalizada de inmediato. Conociendo la importancia del vasto potencial de los medios sociales, Rock Star te permite actualizar a tus seguidores con respecto a cualquier actividad, lanzamiento de canciones o eventos utilizando la opción integrada de compatibilidad con medios sociales. Su página principal está dominada por tu logo, tu descripción corta y una imagen de fondo de pantalla completa. Con características como diseños, teletipo de noticias, contenido destacado, carrusel destacado, tours, migas de pan, vídeos, iconos sociales e imágenes de Instagram, te da muchas posibilidades de personalización. Este tema está preparado para ser traducido. Consulta las instrucciones del tema en https://catchthemes.com/theme-instructions/rock-star/, el soporte en https://catchthemes.com/support/ y la demostración en https://catchthemes.com/demo/rock-star/"
+
+#. Theme Name of the theme
+msgid "Rock Star"
+msgstr "Rock Star"
+
+#: inc/core.php:1766
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/core.php:1761
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: inc/core.php:1756
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/core.php:1751
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/core.php:1746
+msgid "Black"
+msgstr "Negro"
+
+#: inc/core.php:1741
+msgid "White"
+msgstr "Blanco"
+
+#: inc/core.php:1731
+msgid "XL"
+msgstr "XL"
+
+#: inc/core.php:1730
+msgid "Huge"
+msgstr "Enorme"
+
+#: inc/core.php:1725
+msgid "L"
+msgstr "L"
+
+#: inc/core.php:1719
+msgid "M"
+msgstr "M"
+
+#: inc/core.php:1718
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/core.php:1713
+msgid "S"
+msgstr "S"
+
+#: inc/json-ld-schema.php:29
+msgid "View all posts by "
+msgstr "Ver todas las entradas de "
+
+#: inc/json-ld-schema.php:28
+msgid "Posts tagged "
+msgstr "Entradas etiquetadas como "
+
+#: inc/json-ld-schema.php:27
+msgid "Search results for: "
+msgstr "Resultados de la búsqueda de: "
+
+#: inc/json-ld-schema.php:26
+msgid "Archive for "
+msgstr "Archivo para "
+
+#: inc/core.php:1403
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr "Copyright &copy;%1$s %2$s. Todos los derechos reservados. %3$s"
+
+#: inc/default-options.php:196 inc/default-options.php:226
+#: inc/default-options.php:317
+msgid "Demo"
+msgstr "Demostración"
+
+#: inc/core.php:1396
+msgid "Y"
+msgstr "Y"
+
+#: inc/structure.php:73
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/customizer-includes/custom-controls.php:24
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s respuesta a «%2$s»"
+msgstr[1] "%1$s respuestas a «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a «%s»"
+
+#: sidebar.php:93
+msgid "Archives"
+msgstr "Archivo"
+
+#: sidebar.php:87
+msgid "Search"
+msgstr "Buscar"
+
+#: sidebar.php:72
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "Por defecto, cargará los widgets de «Búsqueda» y «Archivos» como se muestra a continuación. Puedes añadir widgets a esta área visitando tu <a href=\"%s\">panel de widgets</a> que reemplazarán a los widgets por defecto."
+
+#: sidebar.php:71
+msgid "This is the Primary Sidebar Widget Area if you are using a two or three column site layout option."
+msgstr "Esta es el área de widgets de la barra lateral principal si estás utilizando una opción de diseño del sitio de dos o tres columnas."
+
+#: sidebar.php:68
+msgid "Primary Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral principal"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "Error 404 - Página NO encontrada"
+
+#: inc/widgets/widgets.php:68
+msgid "This is the After Content widget area. It typically appears after the Content."
+msgstr "Esta es el área de widgets después del contenido. Generalmente aparece después del contenido."
+
+#: inc/widgets/widgets.php:62
+msgid "After Content"
+msgstr "Después del contenido"
+
+#: inc/widgets/widgets.php:57
+msgid "This is the Before Content widget area. It typically appears on the before the Content."
+msgstr "Esta es el área de widgets antes del contenido. Generalmente aparece antes del contenido."
+
+#: inc/widgets/widgets.php:51
+msgid "Before Content"
+msgstr "Antes del contenido"
+
+#: inc/widgets/widgets.php:44
+msgid "Footer %d widget area."
+msgstr "Área de widgets del pie de página %d."
+
+#: inc/widgets/widgets.php:38
+msgid "Footer Area %d"
+msgstr "Área %d del pie de página"
+
+#: inc/widgets/widgets.php:30
+msgid "This is the primary sidebar if you are using a two column site layout option."
+msgstr "Esta es la barra lateral principal si estás usando una opción de diseño del sitio de dos columnas."
+
+#: inc/widgets/widgets.php:24
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/widgets/video-embed.php:113
+msgid "More Link text"
+msgstr "Texto del enlace leer más"
+
+#: inc/widgets/video-embed.php:106
+msgid "More Link Url"
+msgstr "URL del enlace leer más"
+
+#: inc/widgets/video-embed.php:97
+msgid "Code %1s"
+msgstr "Código de %1s"
+
+#: inc/widgets/video-embed.php:71
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/widgets/video-embed.php:51
+msgid "CT: Video Embeds"
+msgstr "CT: Incrustaciones de vídeo"
+
+#: inc/widgets/video-embed.php:42
+msgid "Use this widget to add Video Embed Codes"
+msgstr "Usa este widget para añadir códigos de incrustación de vídeo"
+
+#: inc/widgets/video-embed.php:120 inc/widgets/tours.php:213
+#: inc/widgets/tours.php:244
+msgid "Check to open link in new tab/window"
+msgstr "Márcalo para abrir el enlace en una nueva pestaña/ventana"
+
+#: inc/widgets/tours.php:234
+msgid "Link Text"
+msgstr "Texto del enlace"
+
+#: inc/widgets/tours.php:203
+msgid "Link Text 4"
+msgstr "Texto de enlace 4"
+
+#: inc/widgets/tours.php:193
+msgid "Link 4"
+msgstr "Enlace 4"
+
+#: inc/widgets/tours.php:183
+msgid "Link Text 3"
+msgstr "Texto de enlace 3"
+
+#: inc/widgets/tours.php:173
+msgid "Link 3"
+msgstr "Enlace 3"
+
+#: inc/widgets/tours.php:163
+msgid "Link Text 2"
+msgstr "Texto de enlace 2"
+
+#: inc/widgets/tours.php:153
+msgid "Link 2"
+msgstr "Enlace 2"
+
+#: inc/widgets/tours.php:143
+msgid "Link Text 1"
+msgstr "Texto de enlace 1"
+
+#: inc/widgets/tours.php:133
+msgid "Link 1"
+msgstr "Enlace 1"
+
+#: inc/widgets/tours.php:123
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/widgets/tours.php:113
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets/tours.php:100
+msgid "%1s. Tour Details"
+msgstr "%1s. Detalles de la gira"
+
+#: inc/widgets/video-embed.php:86 inc/widgets/tours.php:73
+msgid "Please save the widget once No. of items is changed to reflect the changes"
+msgstr "Por favor, guarda el widget una vez que el número de elementos se cambie para reflejar los cambios"
+
+#: inc/widgets/tours.php:50
+msgid "CT: Tours"
+msgstr "CT: Giras"
+
+#: inc/widgets/tours.php:41
+msgid "Use this widget to add Tours"
+msgstr "Usa este widget para añadir giras"
+
+#: inc/widgets/tag-cloud.php:158
+msgid "Unit of measure as pertains to the smallest and largest values. This can be any CSS length value."
+msgstr "Unidad de medida correspondiente a los valores más pequeños y más grandes. Puede ser cualquier valor de longitud de CSS."
+
+#: inc/widgets/tag-cloud.php:149
+msgid "%"
+msgstr "%"
+
+#: inc/widgets/tag-cloud.php:148
+msgid "em"
+msgstr "em"
+
+#: inc/widgets/tag-cloud.php:147
+msgid "px"
+msgstr "px"
+
+#: inc/widgets/tag-cloud.php:146
+msgid "pt"
+msgstr "pt"
+
+#: inc/widgets/tag-cloud.php:142
+msgid "Unit"
+msgstr "Unidad"
+
+#: inc/widgets/tag-cloud.php:138
+msgid "The text size of the tag with the largest count value (units given by unit parameter). "
+msgstr "El tamaño del texto de la etiqueta con el valor de número más grande (unidades dadas por el parámetro de unidad). "
+
+#: inc/widgets/tag-cloud.php:135
+msgid "Largest"
+msgstr "Más grande"
+
+#: inc/widgets/tag-cloud.php:131
+msgid "The text size of the tag with the smallest count value (units given by unit parameter). "
+msgstr "El tamaño del texto de la etiqueta con el valor de número más pequeño (unidades dadas por el parámetro de unidad). "
+
+#: inc/widgets/tag-cloud.php:128
+msgid "Smallest"
+msgstr "Más pequeña"
+
+#: inc/widgets/tag-cloud.php:124
+msgid "Additional Options"
+msgstr "Opciones adicionales"
+
+#: inc/widgets/tag-cloud.php:121
+msgid "Use Custom Taxonomy Slug separated by comma(,)"
+msgstr "Usa slugs de taxonomías personalizadas separadas por coma (,)"
+
+#: inc/widgets/tag-cloud.php:119
+msgid "Custom Taxnomy"
+msgstr "Taxonomía personalizada"
+
+#: inc/widgets/tag-cloud.php:116
+msgid "Link Category"
+msgstr "Categoría del enlace"
+
+#: inc/widgets/tag-cloud.php:112
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/widgets/tag-cloud.php:108
+msgid "Post Tags"
+msgstr "Etiquetas de entrada"
+
+#: inc/widgets/tag-cloud.php:105
+msgid "Taxonomies to be used"
+msgstr "Taxonomías a usar"
+
+#: inc/widgets/tag-cloud.php:95
+msgid "Descending"
+msgstr "Descendente"
+
+#: inc/widgets/tag-cloud.php:94
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: inc/widgets/tag-cloud.php:93
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets/tag-cloud.php:89
+msgid "Sequence"
+msgstr "Secuencia"
+
+#: inc/widgets/tag-cloud.php:78
+msgid "Rounded Corners"
+msgstr "Esquinas redondeadas"
+
+#: inc/widgets/tag-cloud.php:77
+msgid "Box"
+msgstr "Caja"
+
+#: inc/widgets/tag-cloud.php:72
+msgid "Skins(Theme)"
+msgstr "Estilos (tema)"
+
+#: inc/widgets/video-embed.php:83 inc/widgets/tours.php:70
+#: inc/widgets/tag-cloud.php:67
+msgid "No. of Items"
+msgstr "No. de elementos"
+
+#: inc/widgets/tag-cloud.php:49
+msgid "CT: Tag Cloud"
+msgstr "CT: Nube de etiquetas"
+
+#: inc/widgets/tag-cloud.php:40
+msgid "Displays Custom Tag Cloud with selected layout"
+msgstr "Muestra la nube de etiquetas personalizada con el diseño seleccionado"
+
+#: inc/widgets/social-icons.php:65
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: inc/widgets/social-icons.php:24
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Usa este widget para añadir iconos sociales como un widget. "
+
+#: inc/widgets/social-icons.php:23
+msgid "CT: Social Icons"
+msgstr "CT: Iconos sociales"
+
+#: inc/widgets/instagram.php:309
+msgid "Instagram did not return any images."
+msgstr "Instagram no devolvió ninguna imagen."
+
+#: inc/widgets/instagram.php:285
+msgid "Instagram Image"
+msgstr "Imágen de Instagram"
+
+#: inc/widgets/instagram.php:243 inc/widgets/instagram.php:249
+#: inc/widgets/instagram.php:253
+msgid "Instagram has returned invalid data."
+msgstr "Instagram ha devuelto datos no válidos."
+
+#: inc/widgets/instagram.php:235
+msgid "Instagram did not return a 200."
+msgstr "Instagram no devolvió un 200."
+
+#: inc/widgets/instagram.php:231
+msgid "Unable to communicate with Instagram."
+msgstr "No ha sido posible comunicarse con Instagram."
+
+#: inc/widgets/instagram.php:125
+msgid "Link text"
+msgstr "Texto del enlace"
+
+#: inc/widgets/instagram.php:102
+msgid "8 Columns"
+msgstr "8 columnas"
+
+#: inc/widgets/instagram.php:101
+msgid "7 Columns"
+msgstr "7 columnas"
+
+#: inc/widgets/instagram.php:100
+msgid "6 Columns"
+msgstr "6 Columnas"
+
+#: inc/widgets/instagram.php:99
+msgid "5 Columns"
+msgstr "5 Columnas"
+
+#: inc/widgets/instagram.php:98
+msgid "4 Columns"
+msgstr "4 columnas"
+
+#: inc/widgets/instagram.php:97
+msgid "3 Columns"
+msgstr "3 columnas"
+
+#: inc/widgets/instagram.php:96
+msgid "2 Columns"
+msgstr "2 columnas"
+
+#: inc/widgets/instagram.php:95
+msgid "1 Column"
+msgstr "1 columna"
+
+#: inc/widgets/instagram.php:91
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/widgets/instagram.php:80
+msgid "Original"
+msgstr "Original"
+
+#: inc/core.php:1712 inc/widgets/instagram.php:78
+msgid "Small"
+msgstr "Pequeña"
+
+#: inc/widgets/instagram.php:77
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: inc/widgets/instagram.php:73
+msgid "Instagram Image Size"
+msgstr "Tamaño de la imagen de Instagram"
+
+#: inc/widgets/instagram.php:68
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: inc/widgets/instagram.php:63
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: inc/widgets/instagram.php:47
+msgid "CT: Instagram"
+msgstr "CT : Instagram"
+
+#: inc/widgets/instagram.php:38
+msgid "Displays your latest Instagram photos"
+msgstr "Muestra tus últimas fotos de Instagram"
+
+#: inc/widgets/instagram.php:33
+msgid "View on Instagram"
+msgstr "Ver en Instagram"
+
+#: inc/widgets/featured-posts.php:153
+msgid "More Text (if applicable)"
+msgstr "Leer más (si procede)"
+
+#: inc/widgets/video-embed.php:76 inc/widgets/instagram.php:113
+#: inc/widgets/featured-posts.php:146 inc/widgets/tours.php:77
+msgid "Background Image Url:"
+msgstr "URL de Imagen de Fondo:"
+
+#: inc/widgets/featured-posts.php:141
+msgid "characters"
+msgstr "caracteres"
+
+#: inc/widgets/featured-posts.php:139
+msgid "Limit content to"
+msgstr "Limitar el contenido a"
+
+#: inc/widgets/featured-posts.php:136
+msgid "No Content"
+msgstr "Sin contenido"
+
+#: inc/widgets/featured-posts.php:135
+msgid "Show Content Limit"
+msgstr "Límite del contenido"
+
+#: inc/widgets/featured-posts.php:133
+msgid "Show Content"
+msgstr "Mostrar contenido"
+
+#: inc/widgets/featured-posts.php:131
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: inc/widgets/featured-posts.php:127
+msgid "Check Hide to Author"
+msgstr "Márcalo para ocultar el autor"
+
+#: inc/widgets/featured-posts.php:125
+msgid "Check to Hide Posted On Date"
+msgstr "Márcalo para ocultar la fecha de publicación"
+
+#: inc/widgets/featured-posts.php:123
+msgid "Check to Hide Tags"
+msgstr "Márcalo para ocultar las etiquetas"
+
+#: inc/widgets/featured-posts.php:121
+msgid "Check to Hide Category"
+msgstr "Márcalo para ocultar la categoría"
+
+#: inc/widgets/featured-posts.php:119
+msgid "Post Meta Info"
+msgstr "Información meta de la entrada"
+
+#: inc/widgets/featured-posts.php:115
+msgid "Check to Disable Title"
+msgstr "Márcalo para desactivar el título"
+
+#: inc/widgets/featured-posts.php:102
+msgid "Image Size"
+msgstr "Tamaño de imagen"
+
+#: inc/widgets/featured-posts.php:91
+msgid "Center"
+msgstr "Centrado"
+
+#: inc/widgets/featured-posts.php:90
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/widgets/featured-posts.php:89
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/widgets/featured-posts.php:84
+msgid "Image Alignment"
+msgstr "Alineación de la imagen"
+
+#: inc/widgets/featured-posts.php:80
+msgid "Check to Disable Image"
+msgstr "Márcalo para desactivar la imagen"
+
+#: inc/widgets/featured-posts.php:74
+msgid "No. of Posts"
+msgstr "Número de entradas"
+
+#: inc/widgets/featured-posts.php:55
+msgid "CT: Featured Posts"
+msgstr "CT: Entradas destacadas"
+
+#: inc/widgets/featured-posts.php:46
+msgid "Displays featured posts with thumbnails"
+msgstr "Muestra las entradas destacadas con miniaturas"
+
+#: inc/widgets/background-image.php:74
+msgid "Padding (px):"
+msgstr "Relleno (px):"
+
+#: inc/widgets/background-image.php:69
+msgid "Height (px):"
+msgstr "Altura (px):"
+
+#: inc/widgets/background-image.php:63
+msgid "Image Url:"
+msgstr "URL de la imagen:"
+
+#: inc/widgets/background-image.php:48
+msgid "CT: Background Image"
+msgstr "CT: Imagen de fondo"
+
+#: inc/widgets/background-image.php:39
+msgid "Use this widget to add Background Image"
+msgstr "Usa este widget para añadir una imagen de fondo"
+
+#: inc/widgets/about.php:111
+msgid "More Text:"
+msgstr "Texto «Más»:"
+
+#: inc/widgets/about.php:106
+msgid "More Link:"
+msgstr "Enlace «Más»:"
+
+#: inc/widgets/about.php:101
+msgid "About Text"
+msgstr "Texto de Acerca de"
+
+#: inc/widgets/about.php:96
+msgid "Image Alt text:"
+msgstr "Texto «Alt» de la imagen:"
+
+#: inc/widgets/instagram.php:121 inc/widgets/about.php:92
+#: inc/widgets/about.php:117
+msgid "Check to Open Link in new Tab/Window"
+msgstr "Márcalo para abrir el enlace en nueva pestaña/ventana"
+
+#: inc/widgets/about.php:86
+msgid "Image Link:"
+msgstr "Enlace de imagen:"
+
+#: inc/widgets/video-embed.php:79 inc/widgets/instagram.php:116
+#: inc/widgets/featured-posts.php:149 inc/widgets/tours.php:80
+#: inc/widgets/background-image.php:66 inc/widgets/about.php:82
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widgets/about.php:79
+msgid "Image:"
+msgstr "Imagen:"
+
+#: inc/widgets/about.php:74
+msgid "Image Title:"
+msgstr "Título de imagen:"
+
+#: inc/widgets/video-embed.php:66 inc/widgets/instagram.php:58
+#: inc/widgets/featured-posts.php:69 inc/widgets/tours.php:65
+#: inc/widgets/tours.php:103 inc/widgets/tag-cloud.php:62
+#: inc/widgets/about.php:69
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/about.php:54
+msgid "CT: About"
+msgstr "CT: Acerca de"
+
+#: inc/widgets/about.php:45
+msgid "Use this widget to add About Information"
+msgstr "Usa este widget para añadir información «Acerca de»"
+
+#: inc/widgets/about.php:40
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/news-ticker.php:43
+msgid "The Latest News"
+msgstr "Las últimas noticias"
+
+#: inc/metabox.php:180
+msgid "Rock Star Options"
+msgstr "Opciones de Rock Star"
+
+#: inc/metabox.php:117
+msgid "Single Page/Post Image Layout"
+msgstr "Diseño de la imagen en las páginas/entradas individuales"
+
+#: inc/metabox.php:100
+msgid "Header Featured Image Options"
+msgstr "Opciones de la imagen destacada de la cabecera"
+
+#: inc/menus.php:18
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/featured-slider.php:83
+msgid "Next Slide"
+msgstr "Diapositiva siguiente"
+
+#: inc/featured-slider.php:82
+msgid "Previous Slide"
+msgstr "Diapositiva anterior"
+
+#: inc/featured-content.php:261 inc/featured-slider.php:186
+#: inc/featured-slider.php:272 inc/featured-slider.php:345
+msgid "Permalink to: "
+msgstr "Enlace permanente a: "
+
+#: inc/featured-content.php:52
+msgid "Here you can showcase the x number of Featured Content. You can edit this Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> Featured Content Options\"."
+msgstr "Aquí puedes mostrar un número x de contenidos destacados. Puedes editar este titular, subtítulo y el contenido destacado en «Apariencia -> Personalizar -> Opciones de contenido destacado»."
+
+#: inc/default-options.php:643
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/default-options.php:642
+msgid "Light"
+msgstr "Claro"
+
+#: inc/default-options.php:629
+msgid "Disable Image"
+msgstr "Desactivar la imagen"
+
+#: inc/default-options.php:614
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/default-options.php:592
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/default-options.php:587
+msgid "Enable"
+msgstr "Activar"
+
+#: inc/default-options.php:551 inc/default-options.php:582
+#: inc/default-options.php:609 inc/widgets/tag-cloud.php:76
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/default-options.php:533 inc/widgets/tours.php:224
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/default-options.php:529
+msgid "Cloud"
+msgstr "Nube"
+
+#: inc/default-options.php:525
+msgid "Cart"
+msgstr "Carrito"
+
+#: inc/default-options.php:521
+msgid "Handset"
+msgstr "Audífonos"
+
+#: inc/default-options.php:517
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/default-options.php:513
+msgid "Website"
+msgstr "Web"
+
+#: inc/default-options.php:509
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/default-options.php:505
+msgid "Foursquare"
+msgstr "FourSquare"
+
+#: inc/default-options.php:501
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/default-options.php:497
+msgid "DropBox"
+msgstr "DropBox"
+
+#: inc/default-options.php:493
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/default-options.php:489
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: inc/default-options.php:485
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/default-options.php:481
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/default-options.php:477
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/default-options.php:473
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/default-options.php:469
+msgid "Path"
+msgstr "Ruta"
+
+#: inc/default-options.php:465
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/default-options.php:461
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: inc/default-options.php:457 inc/widgets/instagram.php:26
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/default-options.php:453
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/default-options.php:449
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/default-options.php:445
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/default-options.php:441
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/default-options.php:437
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/default-options.php:433
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/default-options.php:429
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/default-options.php:425
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/default-options.php:421
+msgid "Feed"
+msgstr "Feed"
+
+#: inc/default-options.php:417 inc/social-icons.php:32 inc/social-icons.php:34
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/default-options.php:413
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: inc/default-options.php:409
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/default-options.php:405
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/default-options.php:389
+msgid "Featured Image Size"
+msgstr "Tamaño de imagen destacada"
+
+#: inc/default-options.php:388
+msgid "Slider Image Size"
+msgstr "Tamaño de imagen del carrusel"
+
+#: inc/default-options.php:387
+msgid "Full size"
+msgstr "Tamaño completo"
+
+#: inc/default-options.php:386 inc/core.php:1724 inc/widgets/instagram.php:79
+msgid "Large"
+msgstr "Grande"
+
+#: inc/default-options.php:372
+msgid "Infinite Scroll (Scroll)"
+msgstr "Scroll infinito (haciendo scroll)"
+
+#: inc/default-options.php:371
+msgid "Infinite Scroll (Click)"
+msgstr "Scroll infinito (haciendo clic)"
+
+#: inc/default-options.php:370
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/default-options.php:369
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Por defecto (entradas anteriores / entradas siguientes)"
+
+#: inc/default-options.php:355
+msgid "False"
+msgstr "Falso"
+
+#: inc/default-options.php:354
+msgid "Wait"
+msgstr "Espera"
+
+#: inc/default-options.php:353
+msgid "True"
+msgstr "Verdadero"
+
+#: inc/default-options.php:340
+msgid "Tile Blind"
+msgstr "Azulejos ciegos"
+
+#: inc/default-options.php:339
+msgid "Tile Slide"
+msgstr "Azulejos deslizantes"
+
+#: inc/default-options.php:338
+msgid "Flip Vertical"
+msgstr "Voltear verticalmente"
+
+#: inc/default-options.php:337
+msgid "Flip Horizontal"
+msgstr "Voltear horizontalmente"
+
+#: inc/default-options.php:336
+msgid "Scroll Vertical"
+msgstr "Desplazamiento vertical"
+
+#: inc/default-options.php:335
+msgid "Scroll Horizontal"
+msgstr "Desplazamiento horizontal"
+
+#: inc/default-options.php:334
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/default-options.php:333
+msgid "Fade Out"
+msgstr "Desvanecer"
+
+#: inc/default-options.php:332
+msgid "Fade"
+msgstr "Fundido"
+
+#: inc/default-options.php:304
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/default-options.php:303
+msgid "Scroll"
+msgstr "Desplazar"
+
+#: inc/default-options.php:290
+msgid "Tile"
+msgstr "Mosaico"
+
+#: inc/default-options.php:289
+msgid "No repeat"
+msgstr "No repetir"
+
+#: inc/default-options.php:276
+msgid "Bottom"
+msgstr "Abajo"
+
+#: inc/default-options.php:275 inc/widgets/featured-posts.php:88
+msgid "Top"
+msgstr "Arriba"
+
+#: inc/default-options.php:261
+msgid "Hide Content"
+msgstr "Ocultar contenido"
+
+#: inc/default-options.php:260
+msgid "Show Full Content"
+msgstr "Mostrar contenido completo"
+
+#: inc/default-options.php:259 inc/widgets/featured-posts.php:134
+msgid "Show Excerpt"
+msgstr "Mostrar extracto"
+
+#: inc/default-options.php:245
+msgid "5 columns"
+msgstr "5 columnas"
+
+#: inc/default-options.php:244
+msgid "4 columns"
+msgstr "4 columnas"
+
+#: inc/default-options.php:243
+msgid "3 columns"
+msgstr "3 columnas"
+
+#: inc/default-options.php:242
+msgid "2 columns"
+msgstr "2 columnas"
+
+#: inc/default-options.php:241
+msgid "1 column"
+msgstr "1 columna"
+
+#: inc/default-options.php:212
+msgid "Above Content"
+msgstr "Encima del contenido"
+
+#: inc/default-options.php:211
+msgid "Below Slider / Header Image"
+msgstr "Debajo del carrusel / imagen de cabecera"
+
+#: inc/default-options.php:166 inc/default-options.php:624
+msgid "Slider Image"
+msgstr "Imagen del carrusel"
+
+#: inc/default-options.php:165
+msgid "Large Image"
+msgstr "Imagen grande"
+
+#: inc/default-options.php:164 inc/default-options.php:619
+msgid "Full Image"
+msgstr "Imagen completa"
+
+#: inc/default-options.php:150 inc/default-options.php:182
+#: inc/default-options.php:390
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/default-options.php:149
+msgid "Pages and Posts"
+msgstr "Páginas y entradas"
+
+#: inc/default-options.php:148
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Todo el sitio, imagen destacada de página/entrada"
+
+#: inc/default-options.php:147 inc/default-options.php:181
+msgid "Entire Site"
+msgstr "En todo el sitio"
+
+#: inc/default-options.php:146
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Imagen destacada de página/entrada, excluyendo la página de inicio"
+
+#: inc/default-options.php:145
+msgid "Excluding Homepage"
+msgstr "Excluyendo la página de inicio"
+
+#: inc/default-options.php:144 inc/default-options.php:180
+msgid "Homepage / Frontpage"
+msgstr "Página de inicio"
+
+#: inc/default-options.php:130
+msgid "Show Full Content (No Featured Image)"
+msgstr "Mostrar el contenido completo (sin la imagen destacada)"
+
+#: inc/default-options.php:129
+msgid "Excerpt Image Top"
+msgstr "Imagen superior del extracto"
+
+#: inc/default-options.php:116 inc/default-options.php:566
+msgid "No Sidebar ( Full Width )"
+msgstr "Sin barra lateral (ancho completo)"
+
+#: inc/default-options.php:115 inc/default-options.php:561
+msgid "Content, Primary Sidebar"
+msgstr "Contenido / Barra lateral principal"
+
+#: inc/default-options.php:114 inc/default-options.php:556
+msgid "Primary Sidebar, Content"
+msgstr "Barra lateral principal / Contenido"
+
+#: inc/default-options.php:59
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/default-options.php:50 inc/widgets/featured-posts.php:41
+msgid "Read More ..."
+msgstr "Leer más..."
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Rock Star Pro"
+msgstr "Rock Star Pro"
+
+#: inc/customizer-includes/theme-options.php:326
+msgid "Default Display Text in Search"
+msgstr "Texto por defecto para la búsqueda"
+
+#: inc/customizer-includes/theme-options.php:316
+msgid "Search Options"
+msgstr "Opciones de búsqueda"
+
+#: inc/customizer-includes/theme-options.php:313
+msgid "Change default placeholder text in Search."
+msgstr "Cambia el texto del marcador de posición por defecto del buscador."
+
+#: inc/customizer-includes/theme-options.php:304
+msgid "Check to disable Scroll Up"
+msgstr "Marcar para desactivar el desplazamiento hacia arriba"
+
+#: inc/customizer-includes/theme-options.php:294
+msgid "Scrollup Options"
+msgstr "Opciones de volver arriba"
+
+#: inc/customizer-includes/theme-options.php:283
+msgid "Pagination type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer-includes/theme-options.php:272
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer-includes/theme-options.php:252
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "El scroll infinito necesita el <a target=\"_blank\" href=\"%s\">plugin JetPack</a> con el módulo scroll infinito activado."
+
+#: inc/customizer-includes/theme-options.php:232
+msgid "<a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a> is recommended for Numeric Option(But will work without it).<br/>Infinite Scroll Options requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "Se recomienda el plugin <a target=\"_blank\" href=\"%1$s\">WP-PageNavi</a> para la opción numérica (pero funcionará sin él).<br/>Las opciones de scrill infinito necesitan el plugin <a target=\"_blank\" href=\"%2$s\">JetPack</a> con el módulo «Scroll infinito» activado."
+
+#: inc/customizer-includes/theme-options.php:219
+msgid "Single Page/Post Image Size "
+msgstr "Tamaño de la imagen en las páginas o entradas individuales "
+
+#: inc/customizer-includes/theme-options.php:206
+msgid "Archive Content Layout"
+msgstr "Disposición de archivo de contenido"
+
+#: inc/customizer-includes/theme-options.php:192
+msgid "Single Page/Post Layout"
+msgstr "Disposición de página/entrada individual"
+
+#: inc/customizer-includes/theme-options.php:178
+msgid "Default Layout"
+msgstr "Disposición por defecto"
+
+#: inc/metabox.php:83 inc/customizer-includes/theme-options.php:167
+msgid "Layout Options"
+msgstr "Opciones de disposición"
+
+#: inc/customizer-includes/theme-options.php:154
+msgid "Select Categories"
+msgstr "Seleccionar categorías"
+
+#: inc/customizer-includes/theme-options.php:143
+msgid "Homepage / Frontpage Options"
+msgstr "Opciones de portada / página de inicio"
+
+#: inc/customizer-includes/theme-options.php:141
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "Solo las entradas que pertenezcan a las categorías seleccionadas aquí se mostrarán en la página de inicio"
+
+#: inc/customizer-includes/theme-options.php:132
+msgid "Read More Text"
+msgstr "Texto «Leer más»"
+
+#: inc/customizer-includes/theme-options.php:118
+msgid "Excerpt Length (words)"
+msgstr "Longitud del extracto (palabras)"
+
+#: inc/customizer-includes/theme-options.php:111
+msgid "Excerpt length. Default is 30 words"
+msgstr "Longitud del extracto. 30 palabras por defecto"
+
+#: inc/customizer-includes/theme-options.php:101
+msgid "Excerpt Options"
+msgstr "Opciones del extracto"
+
+#: inc/customizer-includes/theme-options.php:88
+msgid "Enter Custom CSS"
+msgstr "Introduce CSS personalizado"
+
+#: inc/customizer-includes/theme-options.php:78
+msgid "Custom CSS Options"
+msgstr "Opciones de CSS personalizado"
+
+#: inc/customizer-includes/theme-options.php:75
+msgid "Custom/Inline CSS"
+msgstr "CSS personalizado/integrado"
+
+#: inc/customizer-includes/theme-options.php:61
+msgid "Separator between Breadcrumbs"
+msgstr "Separador entre las migas de pan"
+
+#: inc/customizer-includes/theme-options.php:45
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Marcar para activar las migas de pan en la página de inicio"
+
+#: inc/customizer-includes/theme-options.php:32
+msgid "Check to enable Breadcrumb"
+msgstr "Marcar para activar las migas de pan"
+
+#: inc/customizer-includes/theme-options.php:21
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: inc/customizer-includes/theme-options.php:19
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "Las migas de pan son una buena manera de permitir que tus visitantes descubran dónde se encuentran en tu sitio con solo un vistazo. Puedes activarlas/desactivarlas en la página de inicio y en todo el sitio."
+
+#: inc/customizer-includes/theme-options.php:14
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer-includes/theme-options.php:11
+msgid "Basic theme Options"
+msgstr "Opciones básicas del tema"
+
+#: inc/customizer-includes/social-icons.php:25
+msgid "Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?{action}. More Information in readme file"
+msgstr "El enlace de Skype puede estar en los formatos de:<br>callto://+{número}<br> skype:{nombredeusuario}?{acción}. Más información en el archivo léeme"
+
+#: inc/customizer-includes/social-icons.php:12
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: inc/customizer-includes/news-ticker.php:111
+msgid "No of News Ticker"
+msgstr "Número de noticias del teletipo"
+
+#: inc/customizer-includes/news-ticker.php:104
+msgid "Save and refresh the page if No. of News Ticker is changed (Max no of News Ticker is 20)"
+msgstr "Guarda y actualiza la página si el número de noticias del teletipo ha cambiado (el número máximo de noticias del teletipo es 20)"
+
+#: inc/customizer-includes/news-ticker.php:88
+msgid "News Ticker Label"
+msgstr "Etiqueta del teletipo de noticias"
+
+#: inc/customizer-includes/news-ticker.php:72
+msgid "Select Ticker Type"
+msgstr "Seleccionar el tipo de teletipo"
+
+#: inc/customizer-includes/news-ticker.php:39
+msgid "News Ticker Position"
+msgstr "Posición del teletipo de noticias"
+
+#: inc/customizer-includes/news-ticker.php:23
+msgid "Enable News Ticker on"
+msgstr "Activar el teletipo de noticias en"
+
+#: inc/customizer-includes/news-ticker.php:12
+msgid "News Ticker"
+msgstr "Teletipo de noticias"
+
+#: inc/customizer-includes/header-options.php:71
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Marcar para abrir el enlace en nueva ventana/pestaña"
+
+#: inc/customizer-includes/header-options.php:58
+msgid "Featured Header Image Link URL"
+msgstr "URL de enlace de la imagen destacada de la cabecera"
+
+#: inc/customizer-includes/header-options.php:45
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Etiqueta alt/title de la imagen destacada de la cabecera "
+
+#: inc/customizer-includes/header-options.php:32
+msgid "Page/Post Featured Header Image Size"
+msgstr "Tamaño de la imagen de cabecera destacada de entradas/páginas"
+
+#: inc/customizer-includes/header-options.php:18
+msgid "Enable Featured Header Image on "
+msgstr "Activar la imagen de cabecera destacada en "
+
+#: inc/customizer-includes/featured-slider.php:148
+msgid "No of Slides"
+msgstr "Número de diapositivas"
+
+#: inc/customizer-includes/featured-slider.php:141
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "Guarda y recarga la página si ha cambiado el número de diapositivas (el máximo de diapositivas es 20)"
+
+#: inc/customizer-includes/featured-slider.php:126
+msgid "Select Slider Type"
+msgstr "Elige el tipo de carrusel"
+
+#: inc/customizer-includes/featured-slider.php:110
+msgid "Enable Social Icons in Featured Slider"
+msgstr "Activar los iconos sociales en el carrusel destacado"
+
+#: inc/customizer-includes/featured-slider.php:94
+msgid "Image Loader"
+msgstr "Cargador de imágenes"
+
+#: inc/customizer-includes/featured-slider.php:78
+msgid "Transition Length"
+msgstr "Duración de la transición"
+
+#: inc/customizer-includes/featured-slider.php:59
+msgid "Transition Delay"
+msgstr "Retardo de la transición"
+
+#: inc/customizer-includes/featured-slider.php:55
+#: inc/customizer-includes/featured-slider.php:74
+msgid "seconds(s)"
+msgstr "segundo(s)"
+
+#: inc/customizer-includes/featured-slider.php:39
+#: inc/customizer-includes/news-ticker.php:55
+msgid "Transition Effect"
+msgstr "Efecto de la transición"
+
+#: inc/customizer-includes/featured-slider.php:23
+msgid "Enable Slider on"
+msgstr "Activar el carrusel"
+
+#: inc/customizer-includes/featured-slider.php:12
+msgid "Featured Slider"
+msgstr "Carrusel destacado"
+
+#: inc/customizer-includes/featured-content.php:223
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: inc/customizer-includes/featured-content.php:209
+msgid "Repeat"
+msgstr "Repetir"
+
+#: inc/customizer-includes/featured-content.php:195
+msgid "Display Position"
+msgstr "Posición para mostrar"
+
+#: inc/customizer-includes/featured-content.php:181
+msgid "Select/Add Background Image"
+msgstr "Seleccionar o añadir una imagen de fondo"
+
+#: inc/customizer-includes/featured-content.php:171
+msgid "Featured Content Background Settings"
+msgstr "Ajustes del fondo del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:169
+msgid "Make sure Featured Content is enabled for these options to work"
+msgstr "Asegúrate de que el contenido destacado esté activado para que estas opciones funcionen"
+
+#: inc/customizer-includes/featured-content.php:160
+#: inc/customizer-includes/featured-slider.php:166
+msgid "Featured Page"
+msgstr "Página destacada"
+
+#: inc/customizer-includes/featured-content.php:145
+msgid "Display Content"
+msgstr "Mostrar contenido"
+
+#: inc/customizer-includes/featured-content.php:128
+msgid "No of Featured Content"
+msgstr "Número de contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:121
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "Guarda y recarga la página si cambias el número de contenido (el número máximo de contenido destacado es 20)"
+
+#: inc/customizer-includes/featured-content.php:107
+msgid "Select Featured Content Layout"
+msgstr "Seleccionar el diseño del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:91
+msgid "Sub-headline for Featured Content"
+msgstr "Subtítulo del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:90
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Deja el campo vacío si quieres eliminar el subtitular"
+
+#: inc/customizer-includes/featured-content.php:75
+msgid "Headline for Featured Content"
+msgstr "Título del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:74
+#: inc/customizer-includes/news-ticker.php:87
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Deja el campo vacío si quieres eliminar el titular"
+
+#: inc/customizer-includes/featured-content.php:60
+msgid "Select Content Type"
+msgstr "Seleccionar el tipo de contenido"
+
+#: inc/customizer-includes/featured-content.php:45
+msgid "Check to Move above Footer"
+msgstr "Marcar para mover encima del pie de página"
+
+#: inc/customizer-includes/featured-content.php:31
+msgid "Enable Featured Content on"
+msgstr "Activar el contenido destacado en"
+
+#: inc/featured-content.php:51 inc/customizer-includes/featured-content.php:14
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:12
+#: inc/customizer-includes/featured-content.php:20
+msgid "Featured Content Options"
+msgstr "Opciones del contenido destacado"
+
+#: inc/customizer-includes/customizer.php:149
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "Recarga la página del personalizador después de guardar para ver el resultado de restablecer"
+
+#: inc/customizer-includes/customizer.php:107
+#: inc/customizer-includes/customizer.php:115
+msgid "Important Links"
+msgstr "Enlaces importantes"
+
+#: inc/customizer-includes/customizer.php:97
+msgid "Check to reset all settings to default"
+msgstr "Marcar para restablecer todos los valores por defecto"
+
+#: inc/customizer-includes/customizer.php:86
+msgid "Reset all settings"
+msgstr "Restablecer todos los ajustes"
+
+#: inc/customizer-includes/customizer.php:84
+msgid "Caution: Reset all settings to default"
+msgstr "Precaución: restablece todos los ajustes a los valores por defecto"
+
+#: inc/customizer-includes/customizer.php:61
+msgid "Color Scheme"
+msgstr "Combinación de colores"
+
+#: inc/customizer-includes/customizer.php:36
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Márcalo para mover el título del sitio y la descripción corta antes del logotipo"
+
+#: inc/customizer-includes/custom-controls.php:57
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/customizer-includes/custom-controls.php:53
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/customizer-includes/custom-controls.php:49
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#: inc/customizer-includes/custom-controls.php:36 inc/core.php:1628
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "Mantén presionada la tecla Ctrl (Windows) / Command (Mac) para seleccionar múltiples opciones."
+
+#: inc/core.php:1587
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: inc/core.php:1584
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: inc/core.php:1484
+msgid "By"
+msgstr "Por"
+
+#: inc/core.php:1479
+msgid "Posted on"
+msgstr "Publicada el"
+
+#: inc/core.php:1464
+msgid "Scroll Up"
+msgstr "Desplazar hacia arriba"
+
+#: inc/core.php:1403
+msgid "by"
+msgstr "por"
+
+#: inc/core.php:843 inc/core.php:885
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Etiquetas</span>"
+
+#: inc/core.php:835 inc/core.php:875
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">Categorías</span>"
+
+#: inc/core.php:832 inc/core.php:840 inc/core.php:872 inc/core.php:882
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/core.php:811
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/core.php:811
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/core.php:811
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/core.php:803 inc/core.php:915
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Autor</span>"
+
+#: inc/core.php:796 inc/core.php:906
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Publicado el</span>"
+
+#: inc/core.php:693
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/core.php:686
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/core.php:680
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dijo:</span>"
+
+#: inc/core.php:670
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/core.php:647
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas siguientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/core.php:646
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas anteriores"
+
+#: inc/default-options.php:197 inc/default-options.php:227
+#: inc/default-options.php:318 inc/customizer-includes/news-ticker.php:129
+#: inc/core.php:641
+msgid "Page"
+msgstr "Página"
+
+#: inc/core.php:640
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: inc/core.php:639
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: inc/core.php:628
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#. Translators: If there are characters in your language that are not *
+#. supported by Montserrat, translate this to 'off'. Do not translate * into
+#. your own language.
+#: inc/core.php:307
+msgctxt "Courgette font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core.php:290
+msgid "collapse child menu"
+msgstr "contraer el menú hijo"
+
+#: inc/core.php:289
+msgid "expand child menu"
+msgstr "ampliar el menú hijo"
+
+#: inc/menus.php:21 inc/core.php:107
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: inc/breadcrumb.php:210
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/json-ld-schema.php:30 inc/breadcrumb.php:49
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/breadcrumb.php:48
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sVer todas las entradas de %2$s"
+
+#: inc/breadcrumb.php:47
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sEntradas etiquetadas como %2$s"
+
+#: inc/breadcrumb.php:46
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$sResultados de buscar: %2$s"
+
+#: inc/breadcrumb.php:45
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Archivo de %2$s"
+
+#: inc/json-ld-schema.php:25 inc/breadcrumb.php:44
+msgid "Home"
+msgstr "Inicio"
+
+#: content.php:27
+msgid "Featured"
+msgstr "Destacado"
+
+#: content-page.php:37 inc/core.php:670 inc/core.php:689 inc/core.php:815
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:50 content-page.php:29 content-single.php:30
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:43 no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: content-none.php:38 no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: content-none.php:25 no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:52 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:51 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:50 comments.php:75
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the theme
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+msgid "https://catchthemes.com/themes/rock-star/"
+msgstr "https://catchthemes.com/themes/rock-star/"
